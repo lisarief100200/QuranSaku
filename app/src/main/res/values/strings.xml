@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AssignmentFinal</string>
+    <string name="no_surah">1</string>
+    <string name="nama_surah">Al-Fatihah</string>
+    <string name="type_surah">Makiyyah</string>
+    <string name="arti_surah">Pembukaan</string>
+    <string name="audio_surah">audio_surah</string>
+    <string name="description_surah">description surah</string>
+    <string name="tipe_surah">Makiyyah</string>
+    <string name="jumlah_ayat">7</string>
+    <string name="label_ayat">ayat</string>
+    <string name="label_no_surah">Surah-ke</string>
+    <string name="label_arti_surah">Arti</string>
+    <string name="label_jumlah_ayat">Jumlah Ayat</string>
+    <string name="label_tipe_surah">Tipe Surah</string>
+    <string name="label_deskripsi_surah">Deskripsi</string>
+    <string name="label_sama_dengan">:</string>
+    <string name="deksripsi_surah">Deksripsi Surah</string>
+</resources>
