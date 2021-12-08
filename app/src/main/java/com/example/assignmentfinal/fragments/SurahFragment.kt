@@ -23,7 +23,6 @@ class SurahFragment : Fragment() {
     private lateinit var recyclerview_surah: RecyclerView
     lateinit var surahApiInterface: SurahApiInterface
     private var URL_SURAH = "https://quran-api-id.vercel.app/"
-    private lateinit var arrayList: List<DataSurah>
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

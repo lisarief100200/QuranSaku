@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AssignmentFinal">
         <activity
+            android:name=".AyatActivity"
+            android:exported="true" />
+        <activity
             android:name=".DetailActivity"
             android:exported="true" />
         <activity

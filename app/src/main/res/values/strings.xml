@@ -16,4 +16,7 @@
     <string name="label_deskripsi_surah">Deskripsi</string>
     <string name="label_sama_dengan">:</string>
     <string name="deksripsi_surah">Deksripsi Surah</string>
+    <string name="label_button_surah">Baca</string>
+    <string name="arti_ayat">Arti</string>
+    <string name="arab_ayat">Arab</string>
 </resources>

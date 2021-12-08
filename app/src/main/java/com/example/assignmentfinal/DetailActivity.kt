@@ -1,5 +1,6 @@
 package com.example.assignmentfinal
 
+import android.content.Intent
 import android.graphics.Color
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -7,11 +8,13 @@ import android.webkit.WebResourceRequest
 import android.webkit.WebSettings
 import android.webkit.WebView
 import android.webkit.WebViewClient
+import android.widget.Button
 import kotlinx.android.synthetic.main.activity_detail.*
 
 class DetailActivity : AppCompatActivity() {
     var bundle: Bundle? = null
     private lateinit var webViewAudio: WebView
+    private lateinit var buttonSurah: Button
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -29,6 +32,8 @@ class DetailActivity : AppCompatActivity() {
         jumlah_ayat.text = bundle?.getString("ayat_surah")
         deskripsi_surah.text = bundle?.getString("deskripsi_surah")
         tipe_surah.text = bundle?.getString("tipe_surah")
+
+        var noSurah = bundle?.getString("no_surah")
 
         var audioSurah = bundle?.getString("audio_surah")
 
@@ -65,5 +70,12 @@ class DetailActivity : AppCompatActivity() {
         webViewAudio.settings.displayZoomControls = true
         webViewAudio.settings.databaseEnabled = true
         webViewAudio.loadData(about, "text/html", "UTF-8")
+
+        buttonSurah = findViewById(R.id.button_surah)
+        buttonSurah.setOnClickListener {
+            val intent = Intent(applicationContext, AyatActivity::class.java)
+            intent.putExtra("no_surah", noSurah.toString())
+            startActivity(intent)
+        }
     }
 }
