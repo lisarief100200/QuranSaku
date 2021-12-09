@@ -29,8 +29,6 @@ class AyatActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_ayat)
 
-
-
         recycler_ayat = findViewById(R.id.recyclerview_ayat)
         recycler_ayat.setHasFixedSize(true)
         recycler_ayat.layoutManager = LinearLayoutManager(applicationContext)

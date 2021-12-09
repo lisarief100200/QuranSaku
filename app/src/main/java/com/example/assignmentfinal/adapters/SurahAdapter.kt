@@ -1,6 +1,7 @@
 package com.example.assignmentfinal.adapters
 
 import android.content.Intent
+import android.graphics.Color
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
@@ -69,6 +70,13 @@ class SurahAdapter (private var surahModelList: ArrayList<DataSurah>) : Recycler
         holder.itemDescription.setText(surahModelList.get(position).getDescription())
         holder.itemAudio.setText(surahModelList.get(position).getAudio())
         holder.itemTipe.setText(surahModelList.get(position).getTipe())
+
+        if (position % 2 != 0) {
+            holder.itemCard.setCardBackgroundColor(Color.rgb(231, 232, 195))
+        }
+        else {
+            holder.itemCard.setCardBackgroundColor(Color.WHITE)
+        }
     }
 
     override fun getItemCount(): Int {

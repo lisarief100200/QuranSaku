@@ -11,26 +11,41 @@
         android:layout_height="wrap_content">
 
         <TextView
-            android:id="@+id/arab_ayat"
-            android:text="@string/arab_ayat"
-            android:textSize="28sp"
-            android:textAlignment="viewEnd"
+            android:id="@+id/no_ayat"
+            app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:textSize="18sp"
+            android:fontFamily="@font/prixoma_nova"
+            android:textColor="@color/black"
+            android:text="@string/no_surah">
+        </TextView>
+
+        <TextView
+            android:id="@+id/arab_ayat"
             android:layout_width="0dp"
-            android:layout_height="wrap_content">
+            android:layout_height="wrap_content"
+            android:text="@string/arab_ayat"
+            android:fontFamily="@font/noto_arabic"
+            android:textAlignment="viewEnd"
+            android:textColor="@color/purple_700"
+            android:textSize="24sp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toEndOf="@+id/no_ayat"
+            app:layout_constraintTop_toTopOf="parent">
         </TextView>
 
         <TextView
             android:id="@+id/arti_ayat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
             android:text="@string/arti_ayat"
-            android:textSize="16sp"
-            app:layout_constraintStart_toStartOf="parent"
+            android:textSize="20sp"
+            android:textColor="@color/black_200"
+            android:fontFamily="@font/prixoma_nova"
             app:layout_constraintTop_toBottomOf="@+id/arab_ayat"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintBottom_toBottomOf="parent"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+            app:layout_constraintStart_toStartOf="@+id/arab_ayat">
         </TextView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
