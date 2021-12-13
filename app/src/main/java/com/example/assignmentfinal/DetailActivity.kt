@@ -19,13 +19,17 @@ class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_detail)
+        bundle = intent.extras
+
+        val namaSurah = bundle?.getString("nama_surah")
+
+        val actionBar = supportActionBar
+        actionBar!!.title = "Detail Surah " + namaSurah
 
         initView()
     }
 
     fun initView() {
-        bundle = intent.extras
-
         no_surah.text = bundle?.getString("no_surah")
         nama_surah.text = bundle?.getString("nama_surah")
         arti_surah.text = bundle?.getString("arti_surah")
@@ -34,7 +38,7 @@ class DetailActivity : AppCompatActivity() {
         tipe_surah.text = bundle?.getString("tipe_surah")
 
         var noSurah = bundle?.getString("no_surah")
-
+        var namaSurah = bundle?.getString("nama_surah")
         var audioSurah = bundle?.getString("audio_surah")
 
         webViewAudio = findViewById(R.id.webview_audio)
@@ -75,6 +79,7 @@ class DetailActivity : AppCompatActivity() {
         buttonSurah.setOnClickListener {
             val intent = Intent(applicationContext, AyatActivity::class.java)
             intent.putExtra("no_surah", noSurah.toString())
+            intent.putExtra("nama_surah", namaSurah.toString())
             startActivity(intent)
         }
     }

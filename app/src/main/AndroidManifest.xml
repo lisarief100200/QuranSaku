@@ -12,19 +12,24 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AssignmentFinal">
         <activity
-            android:name=".AyatActivity"
-            android:exported="true" />
-        <activity
-            android:name=".DetailActivity"
-            android:exported="true" />
-        <activity
-            android:name=".MainActivity"
-            android:exported="true">
+            android:name=".SplashScreen"
+            android:exported="true"
+            android:theme="@style/Theme.SplashScreen">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
+        </activity>
+        <activity
+            android:name=".AyatActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".DetailActivity"
+            android:exported="true"/>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
         </activity>
     </application>
 

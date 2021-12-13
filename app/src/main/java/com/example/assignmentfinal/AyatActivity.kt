@@ -24,16 +24,20 @@ class AyatActivity : AppCompatActivity() {
     lateinit var ayatApiInterface: AyatApiInterface
     private var URL_AYAT_NY = "https://quran-api-id.vercel.app/surahs/"
 
-
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_ayat)
+        bundle = intent.extras
+
+        var namaSurah = bundle?.getString("nama_surah")
+
+        val actionBar = supportActionBar
+        actionBar!!.title = "Ayat Surah " + namaSurah
 
         recycler_ayat = findViewById(R.id.recyclerview_ayat)
         recycler_ayat.setHasFixedSize(true)
         recycler_ayat.layoutManager = LinearLayoutManager(applicationContext)
 
-        bundle = intent.extras
         var noSurah = bundle?.getString("no_surah")
         var URL_AYAT = URL_AYAT_NY + noSurah + "/"
 
