@@ -17,7 +17,7 @@
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:textSize="24sp"
-            android:fontFamily="@font/prixoma_nova"
+            android:fontFamily="@font/noto_sans"
             android:textColor="@color/black"
             android:text="@string/no_surah">
         </TextView>
@@ -45,7 +45,7 @@
             android:textSize="20sp"
             android:layout_marginTop="2dp"
             android:textColor="@color/black_200"
-            android:fontFamily="@font/prixoma_nova"
+            android:fontFamily="@font/noto_sans"
             app:layout_constraintTop_toBottomOf="@+id/arab_ayat"
             app:layout_constraintStart_toStartOf="@+id/no_ayat">
         </TextView>

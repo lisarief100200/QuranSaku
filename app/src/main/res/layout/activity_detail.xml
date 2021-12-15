@@ -29,7 +29,7 @@
         android:text="@string/nama_surah"
         android:textSize="20sp"
         android:textColor="@color/black"
-        android:fontFamily="@font/prixoma_nova"
+        android:fontFamily="@font/noto_sans"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginTop="8dp"
@@ -79,7 +79,7 @@
                         android:paddingBottom="4dp"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:text="@string/label_no_surah">
                     </TextView>
 
@@ -90,7 +90,7 @@
                         android:paddingBottom="4dp"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:text="@string/label_arti_surah">
                     </TextView>
 
@@ -101,7 +101,7 @@
                         android:paddingBottom="4dp"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:text="@string/label_jumlah_ayat">
                     </TextView>
 
@@ -111,7 +111,7 @@
                         android:layout_height="wrap_content"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:text="@string/label_tipe_surah">
                     </TextView>
 
@@ -130,7 +130,7 @@
                         android:text="@string/label_sama_dengan"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:paddingBottom="4dp">
                     </TextView>
 
@@ -140,7 +140,7 @@
                         android:text="@string/label_sama_dengan"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:paddingBottom="4dp">
                     </TextView>
 
@@ -150,7 +150,7 @@
                         android:text="@string/label_sama_dengan"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:paddingBottom="4dp">
                     </TextView>
 
@@ -160,7 +160,7 @@
                         android:text="@string/label_sama_dengan"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova">
+                        android:fontFamily="@font/noto_sans">
                     </TextView>
                 </LinearLayout>
 
@@ -178,7 +178,7 @@
                         android:text="@string/no_surah"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:paddingBottom="4dp">
                     </TextView>
 
@@ -188,7 +188,7 @@
                         android:layout_height="wrap_content"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:text="@string/arti_surah"
                         android:paddingBottom="4dp">
                     </TextView>
@@ -200,7 +200,7 @@
                         android:text="@string/jumlah_ayat"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova"
+                        android:fontFamily="@font/noto_sans"
                         android:paddingBottom="4dp">
                     </TextView>
 
@@ -211,7 +211,7 @@
                         android:text="@string/tipe_surah"
                         android:textSize="16sp"
                         android:textColor="@color/black"
-                        android:fontFamily="@font/prixoma_nova">
+                        android:fontFamily="@font/noto_sans">
                     </TextView>
 
                 </LinearLayout>
@@ -231,7 +231,7 @@
         android:text="@string/label_deskripsi_surah"
         android:textSize="16sp"
         android:textColor="@color/black"
-        android:fontFamily="@font/prixoma_nova"
+        android:fontFamily="@font/noto_sans"
         android:layout_marginStart="16dp"
         android:layout_marginEnd="16dp"
         android:layout_marginTop="8dp"
@@ -267,7 +267,7 @@
                 android:paddingEnd="8dp"
                 android:textSize="14sp"
                 android:textColor="@color/black"
-                android:fontFamily="@font/prixoma_nova"
+                android:fontFamily="@font/noto_sans"
                 android:text="@string/deksripsi_surah">
             </TextView>
 
