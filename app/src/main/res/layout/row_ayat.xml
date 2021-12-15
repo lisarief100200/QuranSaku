@@ -16,13 +16,14 @@
             app:layout_constraintTop_toTopOf="parent"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
-            android:textSize="18sp"
+            android:textSize="24sp"
             android:fontFamily="@font/prixoma_nova"
             android:textColor="@color/black"
             android:text="@string/no_surah">
         </TextView>
 
         <TextView
+            android:layout_marginLeft="8dp"
             android:id="@+id/arab_ayat"
             android:layout_width="0dp"
             android:layout_height="wrap_content"
@@ -42,10 +43,11 @@
             android:layout_height="wrap_content"
             android:text="@string/arti_ayat"
             android:textSize="20sp"
+            android:layout_marginTop="2dp"
             android:textColor="@color/black_200"
             android:fontFamily="@font/prixoma_nova"
             app:layout_constraintTop_toBottomOf="@+id/arab_ayat"
-            app:layout_constraintStart_toStartOf="@+id/arab_ayat">
+            app:layout_constraintStart_toStartOf="@+id/no_ayat">
         </TextView>
 
     </androidx.constraintlayout.widget.ConstraintLayout>
