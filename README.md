@@ -11,9 +11,8 @@ Quran Saku merupakan aplikasi yang berisikan surah Al-Qur'an lengkap dengan terj
 https://play.google.com/store/apps/details?id=com.quran.quransaku
 
 ## API (Data Source)
-Quran API ID\
-Documantation: https://github.com/renomureza/quran-api-id
-Endpoint
+[Quran API ID](https://github.com/renomureza/quran-api-id)\
+Endpoint\
 - /surahs
 - /surahs/{noSurah}
 - /surahs/{noSurah}/ayahs
