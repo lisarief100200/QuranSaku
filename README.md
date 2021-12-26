@@ -12,7 +12,7 @@ https://play.google.com/store/apps/details?id=com.quran.quransaku
 
 ## API (Data Source)
 [Quran API ID](https://github.com/renomureza/quran-api-id)\
-Endpoint\
+Endpoint
 - /surahs
 - /surahs/{noSurah}
 - /surahs/{noSurah}/ayahs
