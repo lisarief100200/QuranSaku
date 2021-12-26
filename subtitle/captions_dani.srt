@@ -1,0 +1,960 @@
+1
+00:00:00,000 --> 00:00:15,840
+[LISA] Perkenalkan mas Dani, nama saya Lisa Arief. Mahasiswa Ilmu Komputer angkatan 2018 Universitas Negeri Jakarta
+
+2
+00:00:15,840 --> 00:00:31,600
+[LISA] Jadi, maksud dan tujuan saya mewawancarai mas Dani untuk melakukan User Testing pada Aplikasi yang saya buat sendiri yang bernama Quran Saku
+
+3
+00:00:31,600 --> 00:00:45,480
+[LISA] Untuk alur proses kegiatan ini, jadi sebelum mencoba aplikasi Quran Saku saya ingin mengajukan beberapa pertanyaan ke mas Dani
+
+4
+00:00:45,480 --> 00:00:54,040
+[LISA] dan minta untuk download aplikasi Quran Saku melalui Play Store
+
+5
+00:00:54,040 --> 00:00:59,480
+[LISA] dan nanti mas Dani bisa menjalankan aplikasinya sesuai dengan Task yang sudah saya siapkan
+
+6
+00:00:59,480 --> 00:01:03,000
+[LISA] untuk Task-nya sendiri itu ada 4
+
+7
+00:01:05,040 --> 00:01:20,320
+[LISA] Jadi, Quran Saku merupakan aplikasi yang berisikan surah Al-Qur'an lengkap dengan terjemahan dalam bahasa Indonesia
+
+8
+00:01:20,320 --> 00:01:27,440
+[LISA] Aplikasi ini juga dilengkapi dengan Audio lantunan ayat suci kitab Al-Qur'an
+
+9
+00:01:27,440 --> 00:01:30,480
+ 
+
+10
+00:01:30,480 --> 00:01:39,640
+[LISA] Ok, mungkin saya bisa langsung mengajukan pertanyaan ya mas
+
+11
+00:01:39,640 --> 00:01:41,840
+[DANI] Ya, silahkan mba
+
+12
+00:01:41,840 --> 00:01:49,640
+[LISA] Ok, mungkin bisa mulai dari perkenalan diri dulu mas. Mulai dari nama, usia, dan domisili-nya
+
+13
+00:01:49,640 --> 00:01:58,560
+[DANI] Ok, nama saya Dani usia 29 tahun. Domisili sekarang saya lagi ada di Bekasi mba
+
+14
+00:01:58,560 --> 00:02:10,040
+[LISA] Bekasi ya, Oke. Untuk pertanyaannya mas, apakah mas Dani memiliki kebiasaan untuk membaca Al-Qur'an?
+
+15
+00:02:10,040 --> 00:02:12,040
+[DANI] Gimana?
+
+16
+00:02:12,040 --> 00:02:19,200
+[LISA] Apakah mas Dani punya kebiasaan buat membaca Al-Qur'an dalam-
+
+17
+00:02:19,200 --> 00:02:21,440
+[DANI] Oh kebiasaan- baca Al-Qur'an
+
+18
+00:02:21,440 --> 00:02:22,400
+[LISA] Iya
+
+19
+00:02:22,400 --> 00:02:27,560
+[DANI] Cukup- ada mba, biasanya baca Qur'an
+
+20
+00:02:27,560 --> 00:02:31,520
+[LISA] Berapa- perhari kah? atau perminggu?
+
+21
+00:02:31,520 --> 00:02:34,560
+[DANI] Biasanya perhari mba, selesai sholat
+
+22
+00:02:34,560 --> 00:02:36,440
+[LISA] Setelah sholat apa mas?
+
+23
+00:02:36,440 --> 00:02:41,440
+[DANI] Sholat wajib mba. Jadi subuh, dzuhur, ashar, maghrib, dan isya.
+
+24
+00:02:41,440 --> 00:02:44,480
+[LISA] Sebiasa mungkin diusahakan untuk membaca Qur'an ya mas
+
+25
+00:02:44,480 --> 00:02:46,480
+[DANI] Iya gitu mba
+
+26
+00:02:46,480 --> 00:02:52,840
+[LISA] Oke. Kalau boleh tau sejak kapan mas punya kebiasaan untuk membaca Al-Qur'an setelah sholat-
+
+27
+00:02:52,840 --> 00:02:55,720
+[DANI] Maaf, mba
+
+28
+00:02:55,720 --> 00:02:56,360
+[LISA] Iya, 
+
+29
+00:02:56,360 --> 00:02:57,560
+[DANI] Gimana?
+
+30
+00:02:57,560 --> 00:03:03,280
+[LISA] Kalau boleh tau, sejak kapan mas Dani punya kebiasaan buat membaca Al-Qur'an
+
+31
+00:03:03,280 --> 00:03:09,520
+[LISA] Karena seperti yang kita tau, kadang masih banyak muslim yang jarang buat baca Al-Qur'an
+
+32
+00:03:09,520 --> 00:03:14,040
+[LISA] Sedangkan mas Dani, setiap sholat baca Al-Qur'an. Punya kebiasaan itu sejak kapan mas?
+
+33
+00:03:14,040 --> 00:03:23,200
+[DANI] Oh, kalo kebiasaan sudah cukup lama mba. Dari saya masih kecil, kebetulan saya lulusan pesantren
+
+34
+00:03:23,200 --> 00:03:27,520
+[DANI] Jadi sudah dibiasakan untuk membaca Al-Qur'an setelah selesai sholat mba
+
+35
+00:03:27,520 --> 00:03:29,800
+[DANI] Dan itu terbawa sampai sekarang
+
+36
+00:03:29,800 --> 00:03:36,560
+[LISA] Oke, -kalau tadi kebiasaannya itu setelah sholat wajib berarti ya mas
+
+37
+00:03:36,560 --> 00:03:37,480
+[DANI] Iya
+
+38
+00:03:37,480 --> 00:03:47,440
+[LISA] Kalau untuk kebiasaan lainnya kayak biasanya baca Al-Qur'an pakai terjemahannya, atau sendiri, atau bareng guru ngaji. Atau gimana mas?
+
+39
+00:03:47,440 --> 00:03:50,000
+[LISA] Kebiasaan lain selain jamnya itu gimana mas? Baca Al-Qur'an
+
+40
+00:03:50,000 --> 00:03:52,280
+[DANI] Oh di luar jam setelah selesai sholat itu mba?
+
+41
+00:03:52,280 --> 00:03:53,000
+[LISA] Iya
+
+42
+00:03:53,000 --> 00:03:59,080
+[DANI] Biasanya ya kalau lagi luang aja mba. Baca terjemahan -artinya gitu mba
+
+43
+00:03:59,080 --> 00:04:05,320
+[LISA] Sendiri mas? Atau bareng guru ngaji? -atau bareng dengan teman?
+
+44
+00:04:05,320 --> 00:04:08,520
+[DANI] Biasanya sendiri mba
+
+45
+00:04:08,520 --> 00:04:18,040
+[LISA] Oke, pertanyaan selanjutnya mas apakah mas Dani pernah membaca Al-Qur'an melalui handphone (aplikasi)?
+
+46
+00:04:18,040 --> 00:04:26,000
+[LISA] Apalagi sekarang sudah masuk ke zaman teknologi ya mas -yang semua sudah bisa melalui handphone dan internet
+
+47
+00:04:26,000 --> 00:04:29,640
+[LISA] Mas Dani pernah ngga baca Al-Qur'an melalui handphone (aplikasi)?
+
+48
+00:04:29,640 --> 00:04:38,560
+[DANI] Sering mba, kadang kalo lupa bawa Al-Qur'an. Pasti lewat handphone karena selalu dibawa kemana-mana
+
+49
+00:04:38,560 --> 00:04:45,480
+[LISA] Oke, kalau menurut mas Dani. Apa saja kelebihan dan kekurangannya dari
+
+50
+00:04:45,480 --> 00:04:49,520
+[LISA] -kita sebagai muslim untuk membaca Al-Qur'an melalui handphone (aplikasi)?
+
+51
+00:04:49,520 --> 00:04:51,680
+[DANI] Melalui handphone ya mba?
+
+52
+00:04:51,680 --> 00:04:52,680
+[LISA] Iya
+
+53
+00:04:52,680 --> 00:04:58,080
+[DANI] Praktis mba, jadi dimanapun -kapanpun bisa baca Al-Qur'an dimana aja
+
+54
+00:04:58,080 --> 00:05:07,640
+[DANI] Terus selain itu, apa lagi ya. Ga ribet, karena Al-Qur'an agak tebal juga ya mba
+
+55
+00:05:07,640 --> 00:05:11,600
+[DANI] Kalo di handphone bisa jadi lebih ringkas gitu
+
+56
+00:05:11,600 --> 00:05:12,100
+[LISA] Iya
+
+57
+00:05:12,100 --> 00:05:16,400
+[LISA] Itu -kan tadi kelebihannya ya mas. Kalau untuk kekurangannya ada ngga mas?
+
+58
+00:05:16,400 --> 00:05:20,068
+[DANI] Baca Al-Qur'an di handphone kan mba?
+
+59
+00:05:20,068 --> 00:05:20,568
+[LISA] Iya
+
+60
+00:05:20,568 --> 00:05:27,840
+[DANI] Ya kalau kekurangan paling ketika lagi baca Al-Qur'an kadang ada telepon masuk
+
+61
+00:05:27,840 --> 00:05:32,160
+[DANI] -sms masuk, kadang alarm gitu mba
+
+62
+00:05:32,160 --> 00:05:34,720
+[LISA] Jadi menganggu gitu ya mas
+
+63
+00:05:34,720 --> 00:05:37,760
+[DANI] Ya, menganggu
+
+64
+00:05:37,760 --> 00:05:41,160
+[LISA] Beda ya mas kalau sama buku
+
+65
+00:05:41,160 --> 00:05:42,480
+[DANI] Iya
+
+66
+00:05:42,480 --> 00:05:45,160
+[LISA] (Buku) biasanya kan ga ada gangguan seperti itu
+
+67
+00:05:45,160 --> 00:05:46,720
+[DANI] Ya, betul
+
+68
+00:05:46,720 --> 00:05:49,320
+[LISA] Mungkin untuk pertanyaan itu aja mas
+
+69
+00:05:49,320 --> 00:05:53,560
+[LISA] Kita bisa lanjut coba aplikasinya
+
+70
+00:05:53,560 --> 00:05:59,200
+[LISA] Bisa di download mas aplikasinya. Saya kasih link-nya di WhatsApp
+
+71
+00:06:06,640 --> 00:06:07,600
+[LISA] Ada mas?
+
+72
+00:06:08,360 --> 00:06:10,440
+[DANI] Sebentar mba, lewat mana mba?
+
+73
+00:06:10,440 --> 00:06:13,680
+[LISA] WhatsApp
+
+74
+00:06:20,040 --> 00:06:21,280
+[DANI] Quran Saku, ya mba?
+
+75
+00:06:21,280 --> 00:06:21,780
+[LISA] Iya
+
+76
+00:06:25,520 --> 00:06:32,000
+[LISA] Mungkin kalau ada kendala bisa bilang ke saya ya mas
+
+77
+00:06:32,000 --> 00:06:34,000
+[DANI] Aman mba
+
+78
+00:06:34,000 --> 00:06:34,803
+[LISA] Ok
+
+79
+00:06:38,480 --> 00:06:40,040
+[DANI] Aman mba
+
+80
+00:06:40,040 --> 00:06:44,840
+[DANI] Sinyal saya agak putus-putus lagi download soalnya. Maaf ya mba
+
+81
+00:06:44,840 --> 00:06:46,640
+[LISA] Oh iya, gak apa-apa mas
+
+82
+00:06:50,200 --> 00:06:52,320
+[DANI] Masih berapa persen itu mba-
+
+83
+00:07:09,160 --> 00:07:10,640
+[DANI] Oke, udah selesai
+
+84
+00:07:10,640 --> 00:07:13,316
+[DANI] Sudah selesai, mba. Ini ya
+
+85
+00:07:13,316 --> 00:07:15,880
+[LISA] Iya, -oke udah ya mas
+
+86
+00:07:15,880 --> 00:07:23,320
+[LISA] Oke, untuk task pertama. Di halaman Home ini ada daftar surah ya mas
+
+87
+00:07:23,320 --> 00:07:24,320
+[DANI] Iya
+
+88
+00:07:24,320 --> 00:07:32,600
+[LISA] Bisa dilihat ya mas, informasi untuk daftar surah ini ada nama surah, arti, dan jumlah ayatnya
+
+89
+00:07:32,600 --> 00:07:35,400
+[LISA] Berdasarkan informasi yang ditampilkan nih mas
+
+90
+00:07:35,400 --> 00:07:41,480
+[LISA] Menurut mas, apakah sudah sesuai / cukup? Atau masih ada yang kurang mas?
+
+91
+00:07:45,280 --> 00:07:48,560
+[DANI] Gimana mba? Yang kurang dari tampilan ini ya mba?
+
+92
+00:07:48,560 --> 00:07:57,040
+[LISA] Iya, jadi di halaman Home atau list surah ini ada nama surah, arti, dan jumlah ayat
+
+93
+00:07:57,040 --> 00:08:05,680
+[LISA] Menurut mas nih, informasi yang ditampilkan seperti nama surah, arti, dan ayat sudah cukup atau masih ada yang perlu ditambah mas
+
+94
+00:08:05,680 --> 00:08:07,680
+[LISA] -informasinya ya mas
+
+95
+00:08:07,680 --> 00:08:09,120
+[DANI] Oh informasinya
+
+96
+00:08:09,120 --> 00:08:15,480
+[DANI] Paling ini mba, biasanya kan di Al-Qur'an itu ada tulisan arab ya. Ini latin semua ya mba
+
+97
+00:08:15,480 --> 00:08:17,480
+[LISA] Oh iya
+
+98
+00:08:17,480 --> 00:08:19,680
+[DANI] Ya, latin semua
+
+99
+00:08:19,680 --> 00:08:22,720
+[DANI] Paling itu mba, itu aja
+
+100
+00:08:22,720 --> 00:08:26,080
+[LISA] Kayak dalam bahasa Arab gitu ya mas, Al-Fatihah dalam bahasa arab
+
+101
+00:08:26,080 --> 00:08:29,120
+[DANI] Ya, tulisan dalam bahasa arabnya. Disini kan latin semua
+
+102
+00:08:29,120 --> 00:08:31,680
+[DANI] Ngeliatnya jadi aneh aja gitu mba
+
+103
+00:08:31,680 --> 00:08:38,880
+[LISA] Kalau untuk secara tampilan gimana mas? Apakah ada yang, -menurut mas nya kurang atau gimana
+
+104
+00:08:38,880 --> 00:08:40,720
+[DANI] Tampilan?
+
+105
+00:08:40,720 --> 00:08:42,720
+[LISA] Iya
+
+106
+00:08:42,720 --> 00:08:49,720
+[DANI] Kalau tampilan tadi ya mba, tulisan surat dalam bahasa arab ga ada
+
+107
+00:08:49,720 --> 00:08:52,280
+[DANI] -terus apa lagi ya
+
+108
+00:08:54,760 --> 00:08:57,160
+[DANI] Ini mba ga ada fitur ini ya-
+
+109
+00:08:59,040 --> 00:09:01,880
+[DANI] Fitur search gitu mba
+
+110
+00:09:01,880 --> 00:09:04,800
+[LISA] Oh iya
+
+111
+00:09:04,800 --> 00:09:06,880
+[LISA] Iya, fitur search 
+
+112
+00:09:06,880 --> 00:09:09,400
+[DANI] Jadi kalau mau cari surah-surah yang lain mba
+
+113
+00:09:09,400 --> 00:09:11,273
+[LISA] Iya
+
+114
+00:09:15,680 --> 00:09:17,520
+[DANI] Udah, paling itu aja mba
+
+115
+00:09:17,520 --> 00:09:19,520
+[LISA] Itu aja ya mas, oke
+
+116
+00:09:19,520 --> 00:09:26,040
+[LISA] Mungkin untuk task selanjutnya mas bisa pilih salah satu surah
+
+117
+00:09:26,040 --> 00:09:28,304
+[DANI] Bebas yang mana aja?
+
+118
+00:09:28,304 --> 00:09:30,200
+[LISA] Bebas apa aja
+
+119
+00:09:30,200 --> 00:09:32,369
+[DANI] Al-Fatihah ya mba
+
+120
+00:09:32,369 --> 00:09:33,145
+[LISA] Boleh
+
+121
+00:09:33,145 --> 00:09:34,523
+[DANI] Oke
+
+122
+00:09:34,523 --> 00:09:42,120
+[LISA] Jadi di detail surah Al-Fatihah ini ada informasi nama surahnya -
+
+123
+00:09:42,120 --> 00:09:50,760
+[LISA] Surah keberapa, arti, jumlah ayat, tipe surah, dan deskripsi surah. Itu informasi yang ditampilkan
+
+124
+00:09:50,760 --> 00:10:02,160
+[LISA] Menurut mas, kira-kira informasi yang ditampilkan sudah sesuai atau masih ada yang kurang atau perlu ditambah. Gimana mas?
+
+125
+00:10:02,160 --> 00:10:04,960
+[LISA] Dari segi informasi yang ditampilkan
+
+126
+00:10:04,960 --> 00:10:09,600
+[DANI] Informasi yang ditampilkan menurut saya -
+
+127
+00:10:09,600 --> 00:10:12,520
+[DANI] Kelebihan malah ya mba, 
+
+128
+00:10:12,520 --> 00:10:15,120
+[LISA] Oh gitu mas? Apa tuh mas?
+
+129
+00:10:15,120 --> 00:10:22,720
+[DANI] Saya agak -bacanya agak aneh deskripsi surah. Agak aneh aja saya bacanya mba
+
+130
+00:10:22,720 --> 00:10:27,160
+[DANI] Jarang saya liat yang ada deskripsi surah 
+
+131
+00:10:27,160 --> 00:10:29,346
+[DANI] -gitu
+
+132
+00:10:29,346 --> 00:10:31,566
+[LISA] Itu aja mas?
+
+133
+00:10:31,566 --> 00:10:39,200
+[DANI] Kalau untuk Al-Fatihah (nama), surah ke-, arti, jumlah ayat, dan tipe surah sudah seperti Al-Qur'an pada umumnya mba
+
+134
+00:10:39,200 --> 00:10:40,450
+[DANI] -yang saya baca
+
+135
+00:10:40,450 --> 00:10:41,756
+[LISA] Oke
+
+136
+00:10:41,756 --> 00:10:44,432
+[LISA] Kalau secara tampilan gimana mas?
+
+137
+00:10:44,432 --> 00:10:48,781
+[LISA] Apakah sudah (sesuai)? Atau masih ada yang kurang?
+
+138
+00:10:48,781 --> 00:10:53,489
+[DANI] Tampilan cukup sih mba
+
+139
+00:10:53,489 --> 00:10:55,520
+[DANI] Cukup rapi menurut saya
+
+140
+00:10:55,520 --> 00:10:58,792
+[DANI] Terbaca lah seenggaknya
+
+141
+00:10:58,792 --> 00:11:03,376
+[LISA] Oke, mungkin bisa lanjut ke task selanjutnya yaitu -
+
+142
+00:11:03,376 --> 00:11:07,200
+[LISA] Bisa pencet tombol Baca yang di bawahnya mas
+
+143
+00:11:07,200 --> 00:11:09,151
+[DANI] Baca ya
+
+144
+00:11:09,151 --> 00:11:10,404
+[DANI] Sebentar ya mba
+
+145
+00:11:12,960 --> 00:11:14,120
+[DANI] Oke
+
+146
+00:11:14,120 --> 00:11:22,080
+[LISA] Ok, disana ada tampilan ayat dan artinya ya mas
+
+147
+00:11:22,080 --> 00:11:27,280
+[LISA] Kalau untuk informasinya, sudah sesuai kah mas? Pertanyaannya sama seperti tadi
+
+148
+00:11:27,280 --> 00:11:31,600
+[DANI] -informasi, yang ditampilan ini ya mba?
+
+149
+00:11:31,600 --> 00:11:32,160
+[LISA] Iya
+
+150
+00:11:35,608 --> 00:11:41,840
+[DANI] Al-Qur'an yang biasa saya baca ya mba, biasanya ditulisan arabnya itu ada ilmu tajwidnya juga mba
+
+151
+00:11:41,840 --> 00:11:43,840
+[LISA] Oh iya-
+
+152
+00:11:43,840 --> 00:11:48,160
+[DANI] Jadi, di setiap tajwid warnanya beda-beda gitu mba
+
+153
+00:11:50,221 --> 00:11:52,221
+[DANI] Disini warnanya kan sama semua ya
+
+154
+00:11:52,221 --> 00:11:53,615
+[LISA] Oh iya
+
+155
+00:11:53,615 --> 00:11:58,441
+[DANI] Iya warna semua (sama). Terus selain itu, biasanya-
+
+156
+00:11:59,722 --> 00:12:06,400
+[DANI] Ada juga tulisan latinnya juga mba, kalau disini kan hanya terjemahannya aja
+
+157
+00:12:07,371 --> 00:12:08,184
+[DANI] -gitu
+
+158
+00:12:09,191 --> 00:12:11,191
+[DANI] Paling itu aja sih mba menurut saya
+
+159
+00:12:11,781 --> 00:12:15,600
+[LISA] Oke, kalau dari tampilan mas gimana kira-kira?
+
+160
+00:12:17,021 --> 00:12:23,280
+[DANI] Ya secara tampilan setiap ayat ada perbedaan warna gini bagus mba, lumayan
+
+161
+00:12:25,208 --> 00:12:28,000
+[LISA] Oke, mungkin bisa lanjut ke task selanjutnya mas 
+
+162
+00:12:28,000 --> 00:12:35,360
+[LISA] Jadi sebelumnya, saya mau jelasin dulu. -Bisa mas ke tampilan detail tadi, sebelum halaman ayat ini
+
+163
+00:12:36,673 --> 00:12:38,000
+[DANI] Kembali berarti ya mba
+
+164
+00:12:38,000 --> 00:12:38,607
+[LISA] Iya
+
+165
+00:12:40,468 --> 00:12:41,055
+[DANI] Oke
+
+166
+00:12:41,374 --> 00:12:48,000
+[LISA] Ya, jadi bisa dilihat mas di bagian atas ada audio mp3 itu
+
+167
+00:12:48,000 --> 00:12:59,520
+[LISA] Jadi, maksud saya menambahkan itu sebagai salah satu fitur bagi pengguna sebagai penuntun 
+
+168
+00:12:59,520 --> 00:13:02,840
+[LISA] saat ingin membaca Al-Qur'an, jadi bisa-
+
+169
+00:13:02,840 --> 00:13:11,280
+[LISA] Pengguna bisa mem-play mp3 sambil dilihat ayat Al-Qur'an
+
+170
+00:13:11,280 --> 00:13:22,960
+[LISA] -dan bisa juga mp3 ini di-play dan masih tetap terus berjalan walaupun aplikasinya kita 'back', bukan ditutup
+
+171
+00:13:22,960 --> 00:13:27,626
+[LISA] -tapi di back seperti ke home, jadi aplikasinya tetap berjalan onbackground
+
+172
+00:13:27,626 --> 00:13:35,360
+[LISA] -dan bisa juga audio ini jalan walaupun handphone kita dalam keadaan mati
+
+173
+00:13:35,360 --> 00:13:38,760
+[LISA] Dengan catatan sama seperti tadi yaitu aplikasinya tidak ditutup
+
+174
+00:13:38,760 --> 00:13:41,135
+[LISA] Bisa dicoba mungkin mas
+
+175
+00:13:42,259 --> 00:13:42,880
+[DANI] Dicoba
+
+176
+00:13:42,880 --> 00:13:43,988
+[LISA] Iya boleh
+
+177
+00:13:45,773 --> 00:13:47,773
+[DANI] Ini play yang ini ya mba? Yang atas
+
+178
+00:13:47,773 --> 00:13:48,606
+[LISA] Iya
+
+179
+00:13:57,223 --> 00:13:59,223
+[DANI] Oh iya bisa, ada mba
+
+180
+00:14:00,263 --> 00:14:03,360
+[DANI] Muncul suaranya, Oh dicoba -disini ditutup yang mba ya
+
+181
+00:14:03,360 --> 00:14:04,800
+[LISA] Iya boleh mas
+
+182
+00:14:04,800 --> 00:14:06,280
+[DANI] Gimana? Balik ke Home gitu ya
+
+183
+00:14:06,280 --> 00:14:07,360
+[LISA] Iya
+
+184
+00:14:09,735 --> 00:14:12,320
+[DANI] Oh iya, bisa mba. Ini ada suaranya
+
+185
+00:14:13,640 --> 00:14:26,240
+[LISA] Saya mau nanya mas sebelumnya. Gimana nih, menurut mas mengenai fitur dari Quran Saku ini yaitu Audio pada detail surah
+
+186
+00:14:26,240 --> 00:14:29,273
+[DANI] Oh yang ini ya? Yang tadi saya coba
+
+187
+00:14:30,785 --> 00:14:36,160
+[DANI] Maksudnya -apa nih mba
+
+188
+00:14:36,160 --> 00:14:37,326
+[DANI] Sudah saya coba, terus?
+
+189
+00:14:39,770 --> 00:14:51,080
+[LISA] Menurut mas, gimana (dengan) fitur ini. Apakah ada yang kurang atau bisa membantu pengguna kah? Tanggapan mas gimana mengenai fitur ini
+
+190
+00:14:51,080 --> 00:14:54,080
+[DANI] Oh tanggapan mengenai fitur ini ya, yang tadi dicoba
+
+191
+00:14:54,080 --> 00:14:55,080
+[LISA] Iya
+
+192
+00:14:56,111 --> 00:14:59,400
+[DANI] Tadi saya udah sempet -coba dengerin ya mba
+
+193
+00:15:00,001 --> 00:15:07,440
+[DANI] Tadi kan menurut mba, mp3 ini digunakan untuk menuntun kita ketika membaca Al-Qur'an ya
+
+194
+00:15:07,440 --> 00:15:08,135
+[LISA] Iya
+
+195
+00:15:09,080 --> 00:15:13,840
+[DANI] Tapi di mp3 ini juga ada terjemahannya juga mba
+
+196
+00:15:13,840 --> 00:15:15,865
+[LISA] Oh iya iya
+
+197
+00:15:15,865 --> 00:15:19,783
+[DANI] Jadi menurut saya kalau dibilang itu membantu jadi kayak gimana ya-
+
+198
+00:15:19,783 --> 00:15:27,855
+[DANI] Saya biasa baca Al-Qur'an pribadi dibaca aja langsung, terjemahan ngga saya baca
+
+199
+00:15:27,855 --> 00:15:32,541
+[DANI] Jadi, kalau dibilang ini membantu atau ngga
+
+200
+00:15:32,541 --> 00:15:39,720
+[DANI] Karena ada terjemahannya itu, jadi aneh aja kalau dibilang (untuk) menuntun menurut saya
+
+201
+00:15:42,608 --> 00:15:46,680
+[DANI] Terus, selain itu tadi bisa onbackground juga ya mba bilang
+
+202
+00:15:46,680 --> 00:15:47,440
+[LISA] Iya
+
+203
+00:15:47,440 --> 00:15:53,440
+[DANI] Saya juga cobain tadi, setelah saya scroll ke bawah (notif di home) ga ada (notif audio)
+
+204
+00:15:53,440 --> 00:15:55,202
+[LISA] Oh iya
+
+205
+00:15:55,202 --> 00:15:57,007
+[DANI] Apa namanya itu ya mba ya
+
+206
+00:15:57,007 --> 00:16:01,334
+[LISA] Ga bisa diatur gitu ya mas ya (dari home), majuin atau mundurin audio
+
+207
+00:16:01,334 --> 00:16:07,840
+[DANI] Ya, ngga bisa saya stop atau gimana gitu mba, jadi suaranya terus keluar
+
+208
+00:16:08,560 --> 00:16:09,981
+[DANI] Itu sih mba
+
+209
+00:16:10,855 --> 00:16:12,855
+[LISA] Oke, 
+
+210
+00:16:14,594 --> 00:16:16,594
+[LISA] Oke, mas. Selanjutnya saya mau tanya
+
+211
+00:16:16,594 --> 00:16:20,400
+[LISA] Kira-kira nih mas setelah mas mencoba aplikasi Quran Saku
+
+212
+00:16:20,400 --> 00:16:25,372
+[LISA] Kira-kira mas bakal menggunakan aplikasi Quran saku ngga untuk kedepannya?
+
+213
+00:16:29,198 --> 00:16:33,080
+[DANI] Menurut saya, Al-Qur'an kan aplikasinya ada banyak ya mba
+
+214
+00:16:33,080 --> 00:16:36,006
+[DANI] Salah satunya Quran Saku
+
+215
+00:16:36,006 --> 00:16:38,737
+[DANI] Kalau dipake atau ngga nya-
+
+216
+00:16:38,737 --> 00:16:42,600
+[DANI] Tadi saya agak sempet kelupaan ya mba
+
+217
+00:16:42,600 --> 00:16:46,520
+[DANI] Saya bilang saya sering baca Al-Qur'an di handphone ya mba,
+
+218
+00:16:46,520 --> 00:16:47,051
+[LISA] Iya
+
+219
+00:16:47,051 --> 00:16:52,644
+[DANI] Nah, di Quran Saku ini mungkin mba belum menjelaskan atau gimana
+
+220
+00:16:52,644 --> 00:16:57,600
+[DANI] Di aplikasi ini, ga ada fitur untuk baca kembali dari kita baca terakhir ya mba ya
+
+221
+00:16:57,600 --> 00:16:59,600
+[LISA] Oh iya iya
+
+222
+00:17:00,716 --> 00:17:03,800
+[DANI] Iya, kayak -bookmark ya? Eh bukan bookmark juga ya
+
+223
+00:17:03,800 --> 00:17:05,800
+[DANI] Tapi kayak terakhir kita baca dimana 
+
+224
+00:17:05,800 --> 00:17:06,800
+[LISA] Iya, iya
+
+225
+00:17:06,800 --> 00:17:12,040
+[DANI] -saya mau melanjutkan dimana itu (fitur) ga ada disini. Tadi saya liat coba-coba
+
+226
+00:17:12,720 --> 00:17:17,080
+[DANI] Paling itu, nah kalau ditanya tadi mau pakai atau ngga
+
+227
+00:17:17,080 --> 00:17:19,840
+[DANI] Saya pakai aplikasi yang lain sih mba
+
+228
+00:17:19,840 --> 00:17:21,039
+[LISA] Oh gitu, oke
+
+229
+00:17:21,039 --> 00:17:22,953
+[DANI] Kebetulan yang sudah saya download sebelumnya
+
+230
+00:17:22,953 --> 00:17:23,863
+[LISA] Iya
+
+231
+00:17:23,863 --> 00:17:25,445
+[DANI] Gitu sih mba
+
+232
+00:17:25,445 --> 00:17:26,652
+[DANI] Maaf ya, mba ya
+
+233
+00:17:26,652 --> 00:17:28,195
+[LISA] Iya
+
+234
+00:17:28,195 --> 00:17:36,320
+[LISA] Oke, mungkin itu aja mas untuk kegiatan kita hari ini
+
+235
+00:17:39,434 --> 00:17:42,360
+[LISA] -yaitu User Testing untuk aplikasi Quran Saku
+
+236
+00:17:42,360 --> 00:17:47,120
+[LISA] Sebelumnya, makasih buat mas Dani karena sudah meluangkan waktunya untuk kegiatan ini 
+
+237
+00:17:47,120 --> 00:17:49,160
+[DANI] Iya, sama-sama mba
+
+238
+00:17:49,160 --> 00:17:52,680
+[LISA] Ya, Wassalamualaikum Warahmatullahi Wabarakatuh
+
+239
+00:17:52,680 --> 00:17:53,800
+[LISA] Makasih, mas
+
+240
+00:17:53,800 --> 00:17:55,222
+[DANI] Ya sama-sama, mba
+

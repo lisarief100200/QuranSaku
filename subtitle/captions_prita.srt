@@ -1,0 +1,1008 @@
+1
+00:00:03,041 --> 00:00:11,840
+[LISA] Perkenalkan mba Prita, nama saya Lisa Arief mahasiswa Ilmu Komputer angkatan 2018
+
+2
+00:00:11,840 --> 00:00:15,135
+[LISA] -dari Universitas Negeri Jakarta
+
+3
+00:00:16,801 --> 00:00:21,880
+[LISA] Jadi maksud dan tujuan saya mewawancarai mba Prita ini-
+
+4
+00:00:21,880 --> 00:00:26,298
+[LISA] untuk melakukan User Testing
+
+5
+00:00:26,298 --> 00:00:29,804
+[LISA] pada aplikasi yang saya buat sendiri
+
+6
+00:00:30,543 --> 00:00:32,040
+[LISA] yaitu Quran Saku
+
+7
+00:00:32,480 --> 00:00:37,029
+[LISA] Untuk alur proses kegiatan hari ini nanti-
+
+8
+00:00:37,523 --> 00:00:42,400
+[LISA] Jadi sebelum mba Prita mencoba aplikasi Quran Saku
+
+9
+00:00:43,061 --> 00:00:46,680
+[LISA] Saya mau mengajukan dulu beberapa pertanyaan
+
+10
+00:00:46,680 --> 00:00:47,795
+[LISA] -ke mba Prita
+
+11
+00:00:48,341 --> 00:00:55,640
+[LISA] dan minta buat download aplikasinya melalui play store
+
+12
+00:00:56,602 --> 00:00:59,120
+[LISA] dan menjalankan aplikasinya
+
+13
+00:00:59,510 --> 00:01:01,920
+[LISA] sesuai (dengan) task yang sudah saya siapkan
+
+14
+00:01:01,920 --> 00:01:05,951
+[LISA] untuk task sendiri, jumlahnya ada 4
+
+15
+00:01:08,573 --> 00:01:10,573
+[LISA] Oh iya, sebelumnya-
+
+16
+00:01:12,001 --> 00:01:14,680
+[LISA] Saya mau menjelaskan dulu apa itu aplikasi Quran Saku
+
+17
+00:01:15,127 --> 00:01:18,120
+[LISA] Jadi aplikasi Quran Saku ini merupakan
+
+18
+00:01:18,554 --> 00:01:22,280
+[LISA] Aplikasi yang berisikan surah Al-Qur'an
+
+19
+00:01:22,685 --> 00:01:26,440
+[LISA] -lengkap dengan terjemahannya dalam Bahasa Indonesia
+
+20
+00:01:27,081 --> 00:01:33,280
+[LISA] Aplikasi ini juga dilengkapi dengan audio lantunan ayat suci kitab Al-Qur'an 
+
+21
+00:01:33,280 --> 00:01:34,950
+[LISA] sebagai salah satu fiturnya
+
+22
+00:01:37,584 --> 00:01:39,800
+[LISA] Oke, mungkin bisa langsung kita-
+
+23
+00:01:40,522 --> 00:01:42,522
+[LISA] Saya mulai mengajukan pertanyaan
+
+24
+00:01:43,080 --> 00:01:49,640
+[LISA] mungkin bisa dimulai dari mba Prita, silahkan memperkenalkan diri mulai dari nama, usia, dan domisili
+
+25
+00:01:50,848 --> 00:01:52,848
+[PRITA] Ya, baik. Assalamualaikum Warahmatullahi Wabarakatuh
+
+26
+00:01:52,848 --> 00:01:56,760
+[PRITA] Sebelumnya, perkenalkan saya Prita Muthia
+
+27
+00:01:56,760 --> 00:02:00,482
+[PRITA] Usia 21 tahun, domisili di Jakarta Timur
+
+28
+00:02:00,482 --> 00:02:01,731
+[LISA] Jakarta Timur, oke
+
+29
+00:02:02,648 --> 00:02:04,080
+[LISA] Saya mau nanya mba
+
+30
+00:02:04,319 --> 00:02:10,640
+[LISA] Apakah mba Prita memiliki kebiasaan untuk membaca Al-Qur'an atau ngaji?
+
+31
+00:02:13,577 --> 00:02:15,280
+[PRITA] Alhamdulillah mba
+
+32
+00:02:17,887 --> 00:02:21,640
+[LISA] Biasanya kapan mba meluangkan waktu untuk ngaji?
+
+33
+00:02:24,001 --> 00:02:26,840
+[PRITA] Biasanya di pagi hari, itupun juga-
+
+34
+00:02:28,075 --> 00:02:31,600
+[PRITA] Bukan khusus untuk meluangkan waktu ya, tapi memang-
+
+35
+00:02:32,104 --> 00:02:35,760
+[PRITA] Untuk perjalanan 'kan saya setiap pagi ke kantor ya
+
+36
+00:02:35,760 --> 00:02:38,000
+[PRITA] -menggunakan kendaraan motor
+
+37
+00:02:38,000 --> 00:02:43,600
+[PRITA] Jadi, daripada ga ada kegiatan jadinya saya sambil membaca ayat-ayat Al-Qur'an
+
+38
+00:02:45,095 --> 00:02:46,480
+[LISA] Kalau boleh tau mba-
+
+39
+00:02:46,480 --> 00:02:50,040
+[LISA] Sejak kapan mba memiliki kebiasaan buat-
+
+40
+00:02:50,572 --> 00:02:53,520
+[LISA] baca Al-Qur'an sebelum berangkat kerja
+
+41
+00:02:55,671 --> 00:02:59,440
+[PRITA] Itu dimulai dari sekitar 3 bulan yang lalu ya
+
+42
+00:02:59,440 --> 00:03:02,600
+[PRITA] -karena sejak saat itu saya baru masuk kerja
+
+43
+00:03:02,600 --> 00:03:09,360
+[PRITA] Jadinya sejak saat itu untuk mengisi waktu saya mulai membaca ayat-ayat Al-Qur'an
+
+44
+00:03:11,470 --> 00:03:16,880
+[LISA] Tadi 'kan baca Al-Qur'an sebelum berangkat kerja ya mba
+
+45
+00:03:16,880 --> 00:03:19,901
+[LISA] Kalau boleh tau, ada kebiasaan-kebiasaan tertentu ngga
+
+46
+00:03:19,901 --> 00:03:23,120
+[LISA] saat baca Al-Qur'an. Apakah baca terjemahannya juga atau-
+
+47
+00:03:23,748 --> 00:03:25,120
+[LISA] berarti sendiri ya? Baca Al-Qur'annya?
+
+48
+00:03:25,120 --> 00:03:26,056
+[PRITA] Ya, betul
+
+49
+00:03:27,413 --> 00:03:32,120
+[LISA] Kalau buat terjemahan kira-kira dibaca juga atau bahasa arabnya aja mba?
+
+50
+00:03:33,259 --> 00:03:36,640
+[PRITA] Biasanya sih bahasa arabnya, cuma 'kan biasanya kalo
+
+51
+00:03:36,640 --> 00:03:41,120
+[PRITA] -karena biasanya, di bawah ayat itu ada artinya
+
+52
+00:03:41,120 --> 00:03:45,115
+[PRITA] kadang saya baca sekilas cuma ngga (kayak) rutin selalu saya baca terjemahannya
+
+53
+00:03:47,280 --> 00:03:49,844
+[LISA] Oke, pertanyaan selanjutnya-
+
+54
+00:03:51,324 --> 00:03:54,800
+[LISA] Mba Prita pernah ngga membaca Al-Qur'an melalui handphone?
+
+55
+00:03:55,497 --> 00:03:57,080
+[LISA] -melalui aplikasi misalnya?
+
+56
+00:03:57,518 --> 00:03:59,120
+[PRITA] Oh, saya selalu pakai aplikasi mba
+
+57
+00:03:59,120 --> 00:04:03,120
+[PRITA] -kalau tadi pagi tuh, yang setiap pagi selalu menggunakan handphone
+
+58
+00:04:03,718 --> 00:04:04,920
+[LISA] Oh selalu pakai handphone ya
+
+59
+00:04:05,270 --> 00:04:06,240
+[LISA] Oke
+
+60
+00:04:06,240 --> 00:04:08,160
+[LISA] Kalau menurut mba prita-
+
+61
+00:04:08,160 --> 00:04:14,000
+[LISA] Apa aja sih kelebihan dan kekurangan buat baca Al-Qur'an melalui handphone (aplikasi)?
+
+62
+00:04:15,333 --> 00:04:18,640
+[PRITA] Kelebihannya- praktis ya pastinya
+
+63
+00:04:18,640 --> 00:04:23,024
+[PRITA] praktis, bisa dibuka dimana aja terus memudahkan juga 'kan ya
+
+64
+00:04:23,024 --> 00:04:27,546
+[PRITA] Kekurangannya paling karena dia (aplikasi) harus online ya mba
+
+65
+00:04:27,546 --> 00:04:33,988
+[PRITA] Kadang-kadang misalnya situasi urgent ga ada kuota, mungkin itu sih yang agak jadi kendali
+
+66
+00:04:33,988 --> 00:04:34,920
+[LISA] Iya
+
+67
+00:04:36,466 --> 00:04:37,960
+[LISA] Sebentar ya mba, saya tulis dulu
+
+68
+00:04:45,733 --> 00:04:46,320
+[LISA] Oke-
+
+69
+00:04:47,137 --> 00:04:53,000
+[LISA] Mungkin untuk pertanyaannya itu aja mba Prita, kita bisa lanjut buat coba aplikasinya
+
+70
+00:04:53,000 --> 00:04:58,672
+[LISA] Bisa mba Prita download aplikasinya, link-nya saya kirim lewat WhatsApp ya
+
+71
+00:04:59,363 --> 00:05:00,240
+[PRITA] Oh iya, baik mba
+
+72
+00:05:04,276 --> 00:05:06,276
+[LISA] Kalau ada kendala bisa mba dibilang-
+
+73
+00:05:06,936 --> 00:05:08,200
+[PRITA] Ini mba ya, Quran Saku ya
+
+74
+00:05:08,200 --> 00:05:08,700
+[LISA] Iya
+
+75
+00:05:09,965 --> 00:05:11,965
+[PRITA] Langsung saya install sekarang atau gimana?
+
+76
+00:05:11,965 --> 00:05:13,556
+[LISA] -sekarang mba, silahkan
+
+77
+00:05:16,719 --> 00:05:18,719
+[PRITA] Sebentar ya mba, masih loading
+
+78
+00:05:18,719 --> 00:05:19,464
+[LISA] Iya
+
+79
+00:05:31,298 --> 00:05:32,160
+[PRITA] Oke, udah mba
+
+80
+00:05:35,605 --> 00:05:38,920
+[LISA] Oke, untuk task pertama mba
+
+81
+00:05:40,409 --> 00:05:41,440
+[LISA] Sebentar ya
+
+82
+00:05:44,654 --> 00:05:46,040
+[LISA] Oke untuk task pertama
+
+83
+00:05:46,040 --> 00:05:50,080
+[LISA] Bisa mba Prita liat saat membuat aplikasinya, itu 'kan ada
+
+84
+00:05:50,779 --> 00:05:55,880
+[LISA] Home ya mba sebagai- yang ditampilkan itu ada list surah
+
+85
+00:05:57,768 --> 00:05:59,768
+[LISA] List nama-nama surahnya, ya
+
+86
+00:06:00,231 --> 00:06:07,120
+[LISA] Nah, disana informasi yang ditampilkan itu ada nama surahnya, artinya, dan jumlah ayat
+
+87
+00:06:07,897 --> 00:06:08,960
+[LISA] Menurut mba Prita-
+
+88
+00:06:09,352 --> 00:06:14,840
+[LISA] apakah informasi yang ditampilkan pada halaman list surah ini sudah sesuai atau ada yang perlu ditambah mba?
+
+89
+00:06:17,603 --> 00:06:24,080
+[PRITA] Menurut saya cukup ya karena disini udah ada keterangan jumlah ayat dan terjemahan dari suratnya
+
+90
+00:06:24,080 --> 00:06:26,080
+[PRITA] -nama suratnya
+
+91
+00:06:27,216 --> 00:06:30,280
+[LISA] Kalau dari secara tampilan gimana mba?
+
+92
+00:06:30,904 --> 00:06:33,760
+[LISA] -apakah sudah cukup memuaskan dan rapi?
+
+93
+00:06:33,760 --> 00:06:35,760
+[LISA] atau masih ada yang perlu ditingkatkan?
+
+94
+00:06:36,878 --> 00:06:41,840
+[PRITA] Kalau dari segi tampilan, menurut saya ini simpel ya lebih mudah dilihat
+
+95
+00:06:41,840 --> 00:06:45,040
+[PRITA] -terus juga cukup informatif
+
+96
+00:06:45,040 --> 00:06:50,360
+[PRITA] Namun mungkin yang agak sedikit kurang, disini harus scroll ya mba
+
+97
+00:06:50,360 --> 00:06:51,680
+[PRITA] -kalau mau cari suratnya
+
+98
+00:06:51,680 --> 00:06:52,880
+[PRITA] Ngga bisa di search gitu
+
+99
+00:06:53,189 --> 00:06:54,160
+[LISA] Oh iya iya
+
+100
+00:06:54,557 --> 00:06:56,640
+[LISA] Jadi mungkin baiknya nambah fitur gitu ya mba
+
+101
+00:06:57,177 --> 00:07:01,400
+[PRITA] Ya betul, mungkin disini bisa tambahin fitur search ya supaya memudahkan gitu
+
+102
+00:07:01,400 --> 00:07:02,553
+[LISA] Iya ya
+
+103
+00:07:03,749 --> 00:07:05,400
+[LISA] Oke, itu aja mba? Atau ada lagi?
+
+104
+00:07:08,568 --> 00:07:10,568
+[PRITA] Saya rasa sih itu aja yang paling penting ya
+
+105
+00:07:10,568 --> 00:07:15,826
+[PRITA] Untuk -apalagi yang misalnya masih baru-baru pemula menggunakan aplikasi
+
+106
+00:07:16,329 --> 00:07:18,760
+[LISA] Oke, untuk task selanjutnya mba
+
+107
+00:07:18,760 --> 00:07:21,600
+[LISA] Mba Prita bisa pilih salah satu surahnya
+
+108
+00:07:21,600 --> 00:07:25,800
+[LISA] -terus nanti akan muncul halaman detail surah tersebut
+
+109
+00:07:32,653 --> 00:07:33,760
+[PRITA] Ya, sudah
+
+110
+00:07:34,134 --> 00:07:36,840
+[LISA] Nah, disana 'kan informasi yang ditampilkan ada 
+
+111
+00:07:36,840 --> 00:07:41,560
+[LISA] -nama surahnya, surah keberapa, arti, jumlah ayat, dan tipe surah
+
+112
+00:07:41,560 --> 00:07:43,407
+[LISA] -beserta deskripsinya ya mba
+
+113
+00:07:43,407 --> 00:07:45,960
+[LISA] Nah menurut mba Prita, sama kayak yang tadi
+
+114
+00:07:45,960 --> 00:07:48,840
+[LISA] Apakah informasi yang ditampilkan sudah sesuai? atau-
+
+115
+00:07:49,302 --> 00:07:52,520
+[LISA] ada yang perlu dikurangi atau ada yang perlu ditambah?
+
+116
+00:07:55,328 --> 00:07:56,040
+[PRITA] Saya sih-
+
+117
+00:07:57,505 --> 00:08:01,720
+[PRITA] Cukup ya mba disini deksripsi nya juga singkat, padat 
+
+118
+00:08:01,720 --> 00:08:04,909
+[PRITA] -dan juga ga terlalu panjang
+
+119
+00:08:04,909 --> 00:08:09,898
+[PRITA] -terus ada keterangan surat keberapanya, arti, dan jumlah, serta tipe suratnya
+
+120
+00:08:10,473 --> 00:08:12,473
+[PRITA] Terus disini juga-
+
+121
+00:08:12,473 --> 00:08:14,865
+[PRITA] ada ini ya mba, bisa denger audionya
+
+122
+00:08:14,865 --> 00:08:15,952
+[LISA] Iya
+
+123
+00:08:15,952 --> 00:08:16,754
+[PRITA] Audio suratnya
+
+124
+00:08:16,754 --> 00:08:17,254
+[LISA] Iya
+
+125
+00:08:19,834 --> 00:08:21,280
+[PRITA] Jadi cukup menurut saya
+
+126
+00:08:22,140 --> 00:08:27,240
+[LISA] Kalo dari secara tampilan, menurut mba Prita gimana halaman detail surah ini
+
+127
+00:08:28,488 --> 00:08:31,080
+[PRITA] Kalo di saya ini agak gelap ya mba
+
+128
+00:08:31,080 --> 00:08:35,080
+[PRITA] Jadi yang untuk audio dia (aplikasi) terang, tapi untuk deskripsinya kayak gelap gitu
+
+129
+00:08:35,080 --> 00:08:36,462
+[LISA] Oh iya iya
+
+130
+00:08:36,462 --> 00:08:38,870
+[PRITA] Itu kesalahan di saya atau memang kayak begitu ya mba?
+
+131
+00:08:38,870 --> 00:08:43,760
+[LISA] Kalau saya ga salah mba, itu kayaknya salah di handphone darkmode ya mba
+
+132
+00:08:43,760 --> 00:08:44,640
+[LISA] Betul ga ya?
+
+133
+00:08:45,910 --> 00:08:47,480
+[PRITA] Ngga, saya ngga pake darkmode
+
+134
+00:08:47,480 --> 00:08:48,200
+[LISA] Oh ngga ya?
+
+135
+00:08:48,200 --> 00:08:50,720
+[LISA] Oh berarti mungkin kesalahan aplikasi saya
+
+136
+00:08:50,720 --> 00:08:53,720
+[LISA] -mungkin bisa saya improve kedepannya
+
+137
+00:08:55,772 --> 00:08:57,772
+[LISA] Oke, sebentar ya mba saya tulis dulu
+
+138
+00:08:59,158 --> 00:09:00,240
+[PRITA] Baik mba
+
+139
+00:09:05,343 --> 00:09:09,080
+[PRITA] Oh atau mungkin kalau darkmode memang kayak begini ya mba tampilannya?
+
+140
+00:09:09,080 --> 00:09:10,366
+[PRITA] -mempengaruhi juga ya?
+
+141
+00:09:10,803 --> 00:09:14,760
+[LISA] Kalau tampilan handphone mba Prita di-set darkmode, bukan?
+
+142
+00:09:15,640 --> 00:09:17,040
+[PRITA] Sebentar, saya juga ngga inget
+
+143
+00:09:19,506 --> 00:09:21,080
+[PRITA] Sebentar ya, saya cek dulu
+
+144
+00:09:25,586 --> 00:09:27,586
+[PRITA] Iya mba, saya darkmode (handphone)
+
+145
+00:09:27,586 --> 00:09:28,769
+[LISA] Nah iya
+
+146
+00:09:29,156 --> 00:09:32,600
+[LISA] Mungkin ngga apa-apa mba, bisa jadi fitur kedepannya buat Quran Saku
+
+147
+00:09:32,600 --> 00:09:36,440
+[LISA] -biar nanti diadakan fitur darkmode ini
+
+148
+00:09:36,973 --> 00:09:41,240
+[PRITA] Iya betul mba, karena agak gelap ya kontrasnya jadi ngga-
+
+149
+00:09:41,240 --> 00:09:43,240
+[LISA] Iya, oke
+
+150
+00:09:43,410 --> 00:09:45,410
+[LISA] Untuk task selanjutnya mba
+
+151
+00:09:45,410 --> 00:09:51,920
+[LISA] Mba Prita bisa mulai baca surahnya di tombol di bawah itu mba
+
+152
+00:09:53,153 --> 00:09:53,840
+[PRITA] Ya, sudah
+
+153
+00:09:54,455 --> 00:09:57,400
+[LISA] Apakah informasi yang ditampilkan sudah sesuai mba?
+
+154
+00:09:57,400 --> 00:10:01,600
+[LISA] -disana 'kan ada bahasa arab dan artinya ya mba
+
+155
+00:10:01,600 --> 00:10:03,796
+[LISA] Apakah ada yang perlu ditambah?
+
+156
+00:10:05,090 --> 00:10:09,920
+[PRITA] Menurut saya ini sih mba, bisa ditulis latinnya
+
+157
+00:10:09,920 --> 00:10:11,400
+[PRITA] Jadi 'kan disini ada arabnya
+
+158
+00:10:11,400 --> 00:10:13,280
+[PRITA] Nah jadi ada latinnya
+
+159
+00:10:13,280 --> 00:10:17,800
+[PRITA] -mungkin yang masih belajar, yang belum terlalu bisa membaca tulisan arab
+
+160
+00:10:17,800 --> 00:10:22,080
+[PRITA] -huruf hijaiyah, jadi bisa pelan-pelan membacanya
+
+161
+00:10:23,000 --> 00:10:26,640
+[LISA] Kalau secara tampilan gimana mba? Untuk ayat ini
+
+162
+00:10:27,429 --> 00:10:31,200
+[PRITA] Tampilan menurut saya udah cukup,  warnanya juga bagus
+
+163
+00:10:31,200 --> 00:10:36,121
+[PRITA] -dan selang seling kayak antar ayat satu dan kedua udah cukup
+
+164
+00:10:38,646 --> 00:10:41,520
+[LISA] Oke, untuk task terakhir mba
+
+165
+00:10:41,520 --> 00:10:45,120
+[LISA] Mba Prita bisa kembali ke halaman detail tadi
+
+166
+00:10:46,019 --> 00:10:47,080
+[LISA] -bisa kembali
+
+167
+00:10:47,542 --> 00:10:49,480
+[LISA] Nah kayak yang tadi mba Prita bilang
+
+168
+00:10:49,480 --> 00:10:59,040
+[LISA] Jadi 'kan, di detail ini ada salah satu fitur di Quran Saku yaitu Audio atau mp3
+
+169
+00:10:59,242 --> 00:11:05,880
+[LISA] Nah maksud saya menambahkan ini (Audio) sebagai penuntun pengguna saat ingin membaca Al-Qur'an
+
+170
+00:11:05,880 --> 00:11:11,760
+[LISA] Jadi mp3 atau audio ini bisa kita play sambil liat ayatnya 
+
+171
+00:11:11,760 --> 00:11:13,160
+[LISA] Bisa dicoba mungkin mba
+
+172
+00:11:13,160 --> 00:11:17,902
+[LISA] Jadi misal kita play audionya, bisa sekalian kita baca
+
+173
+00:11:17,902 --> 00:11:20,899
+[LISA] -dan audionya masih tetap berjalan
+
+174
+00:11:20,899 --> 00:11:27,560
+[LISA] Dan bisa juga aplikasinya misal nanti kita play audionya terus nanti kita kembali ke home
+
+175
+00:11:27,560 --> 00:11:31,200
+[LISA] -itu juga audionya akan tetap berjalan
+
+176
+00:11:31,200 --> 00:11:32,753
+[LISA] Begitu juga kalau-
+
+177
+00:11:32,753 --> 00:11:39,760
+[LISA] Audionya kita nyalakan dan handphone dalam keadaan mati itu juga tetap berjalan audionya
+
+178
+00:11:39,760 --> 00:11:44,000
+[LISA] Tapi dengan catatan, semua bisa berjalan asalkan aplikasinya tidak ditutup
+
+179
+00:11:44,000 --> 00:11:49,720
+[LISA] Nah menurut mba nih, fitur ini audio ini gimana? 
+
+180
+00:11:49,720 --> 00:11:51,080
+[LISA] Apakah ada kekurangannya? atau-
+
+181
+00:11:53,113 --> 00:11:58,320
+[LISA] Menyelesaikan masalah ngga untuk sebagai penuntun pengguna saat membaca Al-Qur'an
+
+182
+00:12:00,001 --> 00:12:02,001
+[PRITA] Ini saya denger dulu atau gimana?
+
+183
+00:12:02,001 --> 00:12:03,520
+[LISA] Boleh mba, silahkan
+
+184
+00:12:03,809 --> 00:12:04,800
+[PRITA] Oke, saya denger dulu ya
+
+185
+00:12:08,556 --> 00:12:11,600
+[PRITA] Ini saya coba back ya, ini tadi bisa ya kalau di back ke home
+
+186
+00:12:11,600 --> 00:12:13,200
+[LISA] Iya, iya
+
+187
+00:12:38,320 --> 00:12:41,160
+[PRITA] Oh ini kalau keluar aplikasi juga tetap nyala ya mba?
+
+188
+00:12:41,160 --> 00:12:42,120
+[LISA] Iya mba
+
+189
+00:12:46,250 --> 00:12:49,080
+[LISA] Asalkan aplikasinya tidak ditutup
+
+190
+00:12:53,077 --> 00:12:56,040
+[PRITA] Ini- saya mau nanya mba, misalnya
+
+191
+00:12:58,828 --> 00:13:00,000
+[PRITA] Tadi saya back gitu ya
+
+192
+00:13:00,000 --> 00:13:00,701
+[LISA] Iya
+
+193
+00:13:00,701 --> 00:13:03,720
+[PRITA] Misalkan saya mau ngebuka lagi audionya yang tadi
+
+194
+00:13:03,720 --> 00:13:06,000
+[PRITA] Misalkan saya lupa nih tadi surah apa, gimana ya mba?
+
+195
+00:13:06,570 --> 00:13:10,400
+[LISA] Oh ini ya mba, ke ulang dari awal gitu ya
+
+196
+00:13:10,739 --> 00:13:11,320
+[PRITA] Iya betul
+
+197
+00:13:11,320 --> 00:13:14,640
+[LISA] Oh iya, itu mungkin bisa jadi salah satu ini mba-
+
+198
+00:13:14,640 --> 00:13:16,640
+[LISA] mungkin nanti bisa kita improve
+
+199
+00:13:17,152 --> 00:13:19,152
+[PRITA] Ya, baik mba
+
+200
+00:13:19,152 --> 00:13:20,894
+[LISA] Itu mungkin kekurangannya itu ya mba?
+
+201
+00:13:21,269 --> 00:13:22,400
+[PRITA] Ya, betul
+
+202
+00:13:22,926 --> 00:13:25,880
+[PRITA] sama -oh iya, ini harus online atau offline?
+
+203
+00:13:25,880 --> 00:13:32,862
+[LISA] Oh iya, untuk aplikasi Quran Saku ini semuanya bisa berjalan asalkan online mba
+
+204
+00:13:33,783 --> 00:13:35,200
+[PRITA] Oh asalkan online
+
+205
+00:13:36,832 --> 00:13:39,480
+[PRITA] Untuk sekedar membaca aja juga online ya? atau-
+
+206
+00:13:39,480 --> 00:13:40,160
+[LISA] Iya online
+
+207
+00:13:40,160 --> 00:13:41,080
+[PRITA] -kalau audio baru (online)?
+
+208
+00:13:41,080 --> 00:13:42,136
+[PRITA] Oh gitu
+
+209
+00:13:42,136 --> 00:13:43,299
+[LISA] Semuanya online
+
+210
+00:13:43,299 --> 00:13:43,999
+[PRITA] Baik
+
+211
+00:13:46,100 --> 00:13:49,200
+[LISA] Oke, mungkin untuk task nya itu aja
+
+212
+00:13:50,040 --> 00:13:53,240
+[LISA] Saya mau-, untuk aplikasi ini mba saya mau nanya
+
+213
+00:13:53,240 --> 00:13:57,400
+[LISA] Kira-kira menurut mba, apa saja kelebihan dari aplikasi Quran Saku ini?
+
+214
+00:13:59,465 --> 00:14:05,720
+[PRITA] Kelebihannya, kalau menurut saya pribadi ya itu tadi karena ada dia (aplikasi) audionya ya
+
+215
+00:14:05,720 --> 00:14:09,640
+[PRITA] -itu memudahkan juga misalkan mungkin ngga mau baca tapi sekedar mau mendengar
+
+216
+00:14:10,125 --> 00:14:13,920
+[PRITA] Itu 'kan, InsyaAllah dapet ini nya juga ya pahalanya gitu
+
+217
+00:14:14,262 --> 00:14:20,000
+[PRITA] -terus untuk dari segi kekurangan mungkin tampilan aja sih tadi ya mba
+
+218
+00:14:20,000 --> 00:14:24,920
+[PRITA] untuk kolom search nya itu untuk memudahkan
+
+219
+00:14:24,920 --> 00:14:27,520
+[PRITA] terus yang audio tadi itu yang keulang lagi itu karena-
+
+220
+00:14:27,520 --> 00:14:30,680
+[PRITA] Paling itu sih mba, itu aja cukup
+
+221
+00:14:30,680 --> 00:14:32,754
+[LISA] Oke, sebentar mba saya tulis dulu
+
+222
+00:14:33,203 --> 00:14:34,160
+[PRITA] Baik mba
+
+223
+00:14:57,845 --> 00:15:01,520
+[LISA] -tadi apa audionya keulang dari awal ya?
+
+224
+00:15:03,437 --> 00:15:04,400
+[PRITA] Iya
+
+225
+00:15:04,763 --> 00:15:07,520
+[PRITA] Boleh ngga mba saya revisi sedikit
+
+226
+00:15:07,520 --> 00:15:08,129
+[LISA] Iya
+
+227
+00:15:08,129 --> 00:15:13,293
+[PRITA] Bukan keulang dari awal, jadi misalkan saya ini buka surat Hud ya
+
+228
+00:15:13,293 --> 00:15:14,047
+[LISA] Iya
+
+229
+00:15:14,047 --> 00:15:21,080
+[PRITA] 'kan saya play nih terus misalnya saya back dulu
+
+230
+00:15:21,560 --> 00:15:24,960
+[PRITA] Tapi saya lupa kalau tadi saya nyetelnya itu surat Hud
+
+231
+00:15:24,960 --> 00:15:27,600
+[PRITA] Nah disini itu ga keliatan kalau-
+
+232
+00:15:27,600 --> 00:15:28,933
+[LISA] Oh iyaya
+
+233
+00:15:28,933 --> 00:15:32,000
+[PRITA] Apa ya yang tadi saya denger sebelumnya, lupa gitu
+
+234
+00:15:32,000 --> 00:15:33,840
+[PRITA] Mungkin bisa dikasih pop-up nya gitu mba
+
+235
+00:15:33,840 --> 00:15:34,680
+[LISA] Oh iya
+
+236
+00:15:34,680 --> 00:15:40,080
+[PRITA] Kayak misalnya di spotify itu kan dibawahnya ada tuh ya mba misalkan lagi dengerin apa, itu sih
+
+237
+00:15:47,565 --> 00:15:48,920
+[LISA] Itu aja mba? atau ada lagi?
+
+238
+00:15:50,054 --> 00:15:51,480
+[PRITA] Cukup sih mba sejauh ini
+
+239
+00:15:51,480 --> 00:15:53,480
+[LISA] Oke, untuk pertanyaan terakhir mba
+
+240
+00:15:53,480 --> 00:15:55,126
+[LISA] -menurut mba Prita?
+
+241
+00:15:57,750 --> 00:16:01,960
+[LISA] Apakah mba ingin menggunakan aplikasi Quran Saku kedepannya
+
+242
+00:16:03,560 --> 00:16:08,640
+[PRITA] Mungkin iya karena terbantu dengan audionya yang tadi ada mp3-nya 
+
+243
+00:16:11,885 --> 00:16:16,080
+[LISA] Kalau menurut mba Prita, tanggapannya gimana mengenai aplikasi Quran Saku ini mba?
+
+244
+00:16:17,859 --> 00:16:22,320
+[PRITA] Kalau menurut saya sudah cukup baik ya karena tampilannya simpel
+
+245
+00:16:22,320 --> 00:16:28,080
+[PRITA] -terus informatif juga ada detail surahnya juga deskripsinya
+
+246
+00:16:28,080 --> 00:16:30,739
+[PRITA] Jadi sudah cukup baik sih
+
+247
+00:16:34,518 --> 00:16:43,360
+[LISA] Oke, baik mungkin itu aja mba Prita untuk kegiatan kita hari ini yaitu User Testing pada aplikasi Quran Saku
+
+248
+00:16:43,360 --> 00:16:47,800
+[LISA] Sebelumnya, makasih juga buat mba Prita karena sudah meluangkan waktunya 
+
+249
+00:16:48,396 --> 00:16:50,000
+[PRITA] Sama-sama mba Lisa
+
+250
+00:16:50,000 --> 00:16:50,500
+[LISA] Iya
+
+251
+00:16:50,819 --> 00:16:53,880
+[LISA] Oke, itu aja Wassalamualaikum Warahmatullahi Wabarakatuh
+
+252
+00:16:54,669 --> 00:16:56,669
+[PRITA] Waalaikumsalam Warahmatullahi Wabarakatuh
+

@@ -1,0 +1,652 @@
+1
+00:00:02,784 --> 00:00:14,760
+[LISA] Ya, perkenalkan mba Salma. Nama saya Lisa Arief, mahasiswa Ilmu Komputer angkatan 2018 dari Universitas Negeri Jakarta
+
+2
+00:00:14,760 --> 00:00:21,800
+[LISA] Jadi, maksud dan tujuan saya mewawancarai mba salma ini untuk-
+
+3
+00:00:21,800 --> 00:00:29,682
+[LISA] melakukan User Testing pada aplikasi yang saya buat sendiri yaitu Quran Saku
+
+4
+00:00:29,682 --> 00:00:36,765
+[LISA] Untuk alur proses kegiatan kita hari ini, jadi nanti-
+
+5
+00:00:36,765 --> 00:00:41,720
+[LISA] Sebelum mba Salma mencoba aplikasi Quran Saku
+
+6
+00:00:41,720 --> 00:00:47,080
+[LISA] Saya mau mengajukan dulu beberapa pertanyaan ke mba Salma
+
+7
+00:00:47,080 --> 00:00:52,680
+[LISA] -dan minta buat download aplikasinya melalui play store
+
+8
+00:00:52,680 --> 00:00:56,033
+[LISA] -dan mba Salma bias menjalankan aplikasinya
+
+9
+00:00:56,033 --> 00:01:02,735
+[LISA] Terus nanti juga mba Salma menjalankan beberapa task yang sudah saya siapkan
+
+10
+00:01:02,735 --> 00:01:05,703
+[LISA] Totalnya ini ada 4 task
+
+11
+00:01:05,703 --> 00:01:10,688
+[LISA] Jadi, sebelumnya aplikasi Quran Saku ini sendiri
+
+12
+00:01:10,688 --> 00:01:21,200
+[LISA] -merupakan aplikasi yang berisikan surah Al-Qur'an lengkap dengan terjemahan dalam bahasa Indonesia
+
+13
+00:01:21,200 --> 00:01:29,235
+[LISA] Aplikasi ini juga dilengkapi dengan audio lantunan ayat suci kitab Al-Qur'an
+
+14
+00:01:32,117 --> 00:01:35,295
+[LISA] Oke, mungkin bisa kita mulai untuk pertanyaannya
+
+15
+00:01:35,295 --> 00:01:39,399
+[LISA] Yang pertama mungkin bisa perkenalkan diri dulu mba Salma,
+
+16
+00:01:39,399 --> 00:01:42,000
+[LISA] Mulai dari nama, usia, dan domisilinya
+
+17
+00:01:44,324 --> 00:01:53,120
+[SALMA] Ya, halo. Perkenalkan nama saya Salma Hayatun Nufuz, usia 21 tahun, domisili di Jawa Barat
+
+18
+00:01:53,887 --> 00:01:54,959
+[LISA] Jawa Barat, ya. Oke
+
+19
+00:01:55,259 --> 00:02:03,320
+[LISA] Mba Salma-, apakah mba mempunyai   kebiasaan untuk membaca Al-Qur'an dalam kehidupan sehari-hari?
+
+20
+00:02:05,050 --> 00:02:05,800
+[SALMA] Iya
+
+21
+00:02:06,993 --> 00:02:08,480
+[LISA] Berapa kali tuh mba?
+
+22
+00:02:10,229 --> 00:02:16,720
+[SALMA] Kadang ga nentu, cuman biasanya paling sering itu habis maghrib
+
+23
+00:02:17,831 --> 00:02:23,320
+[LISA] Setiap hari kah? (karena) biasanya ada yang Jum'at aja
+
+24
+00:02:24,801 --> 00:02:27,520
+[SALMA] Hampir setiap hari kalau lagi sholat
+
+25
+00:02:29,174 --> 00:02:36,720
+[LISA] Kalau boleh tau, sejak kapan mba Salma punya kebiasaan untuk selalu ngaji tiap habis sholat maghrib?
+
+26
+00:02:39,904 --> 00:02:45,200
+[SALMA] Udah lumayan lama, udah dibiasakan juga waktu SMA
+
+27
+00:02:46,149 --> 00:02:46,640
+[LISA] Oke
+
+28
+00:02:48,118 --> 00:02:54,760
+[LISA] -selain, biasanya mba Salma kalau baca Al-Qur'an setelah maghrib itu apakah-
+
+29
+00:02:54,760 --> 00:03:00,120
+[LISA] -baca arabnya saja? atau saja terjemahannya juga atau gimana mba?
+
+30
+00:03:00,560 --> 00:03:02,560
+[SALMA] Iya, baca arab-nya saja
+
+31
+00:03:02,560 --> 00:03:03,719
+[LISA] Oh arabnya aja-
+
+32
+00:03:04,102 --> 00:03:07,920
+[LISA] Sendiri ya mba baca Al-Qur'an nya? Atau bareng-bareng?
+
+33
+00:03:08,485 --> 00:03:10,485
+[SALMA] Iya sendiri sehabis maghrib
+
+34
+00:03:10,686 --> 00:03:11,560
+[LISA] Sendiri ya, oke
+
+35
+00:03:13,099 --> 00:03:20,040
+[LISA] Saya mau nanya mba, apakah mba Salma pernah baca Al-Qur'an melalui aplikasi di handphone?
+
+36
+00:03:21,708 --> 00:03:27,280
+[SALMA] Iya pernah, cuman memang lebih suka pakai yang di aplikasi
+
+37
+00:03:28,389 --> 00:03:36,080
+[LISA] Kalau menurut mba Salma nih, apa aja sih kelebihan dan kekurangan dari baca Al-Qur'an melalui handphone?
+
+38
+00:03:39,332 --> 00:03:47,880
+[SALMA] Kalau buat saya pribadi, lebih praktik dan lebih nyaman digunakan
+
+39
+00:03:48,242 --> 00:03:49,640
+[LISA] Kalau kekurangannya ada ngga mba?
+
+40
+00:03:50,555 --> 00:03:52,555
+[SALMA] Kalau untuk kekurangan-
+
+41
+00:03:54,370 --> 00:03:56,370
+[SALMA] Mungkin- ya, apa-
+
+42
+00:03:57,313 --> 00:04:04,360
+[SALMA] Kayak kalau kita pakai aplikasi lewat handphone gitu, biasanya handphone harus kita matikan dulu datanya
+
+43
+00:04:04,375 --> 00:04:07,960
+[SALMA] Soalnya takut kurang fokus atau lain sebagainya
+
+44
+00:04:10,521 --> 00:04:14,160
+[LISA] Oke, mungkin untuk pertanyaannya itu aja mba
+
+45
+00:04:14,963 --> 00:04:18,920
+[LISA] Mungkin kita bisa lanjut buat coba aplikasinya
+
+46
+00:04:19,491 --> 00:04:23,160
+[LISA] Bisa di-download. Saya kasih link-nya lewat WhatsApp ya mba
+
+47
+00:04:24,200 --> 00:04:24,960
+[SALMA] Oke
+
+48
+00:04:53,438 --> 00:04:54,560
+[SALMA] Ya, sudah (download)
+
+49
+00:04:55,091 --> 00:04:57,800
+[LISA] Sudah ya, oke. Untuk-
+
+50
+00:04:59,684 --> 00:05:01,000
+[LISA] Task pertama,
+
+51
+00:05:03,189 --> 00:05:08,360
+[LISA] Itu saya mau minta mba Salma buat melihat daftar surah yang ada di halaman Home nya mba
+
+52
+00:05:09,322 --> 00:05:10,720
+[LISA] Bisa dilihat-lihat dulu mungkin
+
+53
+00:05:23,584 --> 00:05:24,440
+[SALMA] Ya, sudah
+
+54
+00:05:25,271 --> 00:05:27,600
+[LISA] Oke, kalau menurut mba Salma nih. 
+
+55
+00:05:27,600 --> 00:05:30,480
+[LISA] -dari daftar surah yang tadi
+
+56
+00:05:30,944 --> 00:05:40,080
+[LISA] Jadi, di list surah ini informasi yang ditampilkan ada ada nama surah, arti, dan ayatnya berapa
+
+57
+00:05:40,080 --> 00:05:40,840
+[LISA] -gitu 'kan ya mba
+
+58
+00:05:40,840 --> 00:05:44,840
+[LISA] Menurut mba nih, informasi yang ditampilkan sudah sesuai atau belum mba?
+
+59
+00:05:44,840 --> 00:05:46,760
+[LISA] -atau masih ada informasi yang perlu ditambah kah?
+
+60
+00:05:49,334 --> 00:05:55,720
+[SALMA] Kalau buat saya pribadi, sudah sesuai. Ini juga sudah ada deskripsi surah juga-
+
+61
+00:05:55,720 --> 00:05:58,120
+[SALMA] Jadi, kita tau maksud dari surah itu apa
+
+62
+00:05:58,626 --> 00:06:00,880
+[LISA] Iya-iya, untuk detail itu ya
+
+63
+00:06:01,620 --> 00:06:02,320
+[SALMA] Iya
+
+64
+00:06:03,508 --> 00:06:05,508
+[LISA] Kalau secara tampilan gimana mba?
+
+65
+00:06:08,309 --> 00:06:10,309
+[LISA] Apakah sudah  
+
+66
+00:06:11,101 --> 00:06:15,920
+[LISA] -cukup, rapi atau masih ada yang perlu ditingkatkan?
+
+67
+00:06:18,770 --> 00:06:22,280
+[SALMA] Kalau untuk tampilan, menurut saya sudah rapi
+
+68
+00:06:22,280 --> 00:06:26,520
+[SALMA] Simpel juga kayak benar-benar buat (aplikasi) Al-Qur'an
+
+69
+00:06:29,414 --> 00:06:30,040
+[LISA] Iya-
+
+70
+00:06:31,699 --> 00:06:38,360
+[LISA] -terus mba Salma bisa pilih salah satu surah mba
+
+71
+00:06:39,428 --> 00:06:41,428
+[LISA] Bisa dilihat detailnya
+
+72
+00:06:43,225 --> 00:06:43,880
+[SALMA] Oke
+
+73
+00:06:47,679 --> 00:06:52,800
+[LISA] Dan bisa dipencet (tombol) baca, buat baca Al-Qur'annya
+
+74
+00:07:13,120 --> 00:07:14,360
+[SALMA] Iya sudah
+
+75
+00:07:14,938 --> 00:07:19,000
+[LISA] Oke, menurut mba kira-kira informasi yang ditampilkan sudah sesuai atau belum mba?
+
+76
+00:07:19,000 --> 00:07:24,640
+[LISA] -untuk (halaman) ayat surah ini, karena (yang ditampilkan) ada bahasa arab dan artinya
+
+77
+00:07:26,874 --> 00:07:29,640
+[LISA] Apakah sudah sesuai mba? Atau ada yang perlu ditingkatkan?
+
+78
+00:07:32,418 --> 00:07:40,040
+[SALMA] Kalau untuk tampilan ayat dan segala macam sudah lengkap. Sudah ada murottal nya juga.
+
+79
+00:07:40,524 --> 00:07:48,000
+[SALMA] Paling ini, kayak ada (untuk) bacaan tajwid
+
+80
+00:07:48,000 --> 00:07:52,080
+[SALMA] -kayak gitu, mungkin bisa dikasih warna berbeda
+
+81
+00:07:52,080 --> 00:07:59,240
+[SALMA] -biar kita tau, karena saya pribadi juga belum terlalu hapal (hukum bacaan) dibaca seperti apa
+
+82
+00:07:59,240 --> 00:08:00,720
+[LISA] Oh iya-iya
+
+83
+00:08:01,433 --> 00:08:05,360
+[LISA] Jadi mungkin bisa dibedakan perwarna atau gimana gitu ya mba
+
+84
+00:08:05,903 --> 00:08:08,960
+[SALMA] Iya untuk ayat arabnya, tulisan arabnya
+
+85
+00:08:08,960 --> 00:08:10,419
+[LISA] Iya, oke
+
+86
+00:08:15,400 --> 00:08:16,560
+[LISA] Jadi-
+
+87
+00:08:17,849 --> 00:08:21,600
+[LISA] Selanjutnya, bisa mba ke detail yang ada di halaman-
+
+88
+00:08:22,341 --> 00:08:23,540
+[LISA] Detail surah mba
+
+89
+00:08:29,448 --> 00:08:30,080
+[SALMA] Iya
+
+90
+00:08:30,805 --> 00:08:41,120
+[LISA] Iya, jadikan bisa dilihat ya mba di atas ada mp3 untuk murottal baca Al-Qur'an
+
+91
+00:08:41,120 --> 00:08:48,120
+[LISA] Tujuan saya menambah mp3 itu untuk sebagai salah satu fitur di Quran Saku
+
+92
+00:08:48,120 --> 00:08:54,640
+[LISA] -untuk menuntun pengguna dari aplikasi ini yang ingin membaca Al-Qur'an
+
+93
+00:08:54,640 --> 00:08:59,720
+[LISA] Jadi mp3 ini bisa di-play
+
+94
+00:08:59,720 --> 00:09:03,720
+[LISA] -terus nanti bisa kita sambil liat ayat Al-Qur'an gitu mba
+
+95
+00:09:03,720 --> 00:09:05,394
+[LISA] -dan bisa juga 
+
+96
+00:09:06,029 --> 00:09:13,400
+[LISA] nanti mp3 ini, bisa tetap terus (keadaan) di-play
+
+97
+00:09:13,400 --> 00:09:18,080
+[LISA] Tidak ada berhenti, walaupun aplikasinya nanti kita tutup (back ke home)
+
+98
+00:09:18,080 --> 00:09:23,720
+[LISA] Asalkan, ga benar-benar di close
+
+99
+00:09:24,374 --> 00:09:35,160
+[LISA] -ditutup, tetep bisa berjalan asal misal kita menyalakan mp3 tapi kita kembali ke home gitu
+
+100
+00:09:36,032 --> 00:09:44,160
+[LISA] Nah, atau bisa juga mp3 ini tetap berjalan meski handphone dalam keadaan mati
+
+101
+00:09:44,160 --> 00:09:48,880
+[LISA] Asalkan sama seperti tadi, (yaitu) aplikasi tidak ditutup
+
+102
+00:09:49,400 --> 00:10:00,600
+[LISA] Nah menurut mba Salma sendiri. Kira-kira salah satu fitur Quran Saku ini yaitu mp3 gimana mba?
+
+103
+00:10:00,600 --> 00:10:03,784
+[LISA] Adakah kekurangannya? Atau masih ada yang perlu ditingkatkan?
+
+104
+00:10:06,344 --> 00:10:08,000
+[SALMA] Saya boleh nanya?
+
+105
+00:10:08,354 --> 00:10:09,800
+[LISA] Iya, boleh. Silahkan mba
+
+106
+00:10:10,694 --> 00:10:15,280
+[SALMA] Kalau kayak gini, misal pas kita buka salah satu surah
+
+107
+00:10:15,280 --> 00:10:18,960
+[SALMA] -nanti audionya menyala. Misalnya surah Al-Fatihah
+
+108
+00:10:18,960 --> 00:10:25,440
+[SALMA] Terus nanti seumpama surah Al-Fatihah-nya habis langsung ke surah berikutnya atau tidak?
+
+109
+00:10:25,440 --> 00:10:27,080
+[SALMA] -atau harus kita play lagi?
+
+110
+00:10:27,080 --> 00:10:33,600
+[LISA] Kalau di aplikasi ini, misal nanti kita play surah Al-Fatihah gitu ya mba
+
+111
+00:10:33,600 --> 00:10:38,800
+[LISA] Ga langsung ke play surah selanjutnya mba. Tapi bisa langsung-
+
+112
+00:10:39,360 --> 00:10:42,160
+[LISA] dibuka dulu Al-Baqoroh nya, terus di play lagi
+
+113
+00:10:42,160 --> 00:10:48,131
+[LISA] Mungkin buat masukkannya bisa mba agar kedepannya bisa saya tambahkan
+
+114
+00:10:48,569 --> 00:10:49,160
+[SALMA] Iya
+
+115
+00:10:51,629 --> 00:10:52,800
+[LISA] Adalagi mba (masukkannya)?
+
+116
+00:10:55,463 --> 00:10:57,960
+[SALMA] Cukup sih, itu udah bagus
+
+117
+00:10:59,157 --> 00:11:03,080
+[SALMA] Mungkin itu aja yang auto-play langsung ke surah berikutnya
+
+118
+00:11:03,909 --> 00:11:05,909
+[LISA] Oh iya, auto-play ya
+
+119
+00:11:14,240 --> 00:11:20,960
+[LISA] Menurut mba, secara keseluruhan kelebihan dari aplikasi Quran Saku apa aja mba?
+
+120
+00:11:22,916 --> 00:11:29,080
+[SALMA] Menurut saya yang paling itu-, deskripsi surah
+
+121
+00:11:29,080 --> 00:11:34,040
+[SALMA] Soalnya saya gatau di aplikasi lain sudah ada atau belum
+
+122
+00:11:34,040 --> 00:11:40,640
+[SALMA] -cuma di Quran Saku saya baru liat ada deskripsi surah
+
+123
+00:11:40,640 --> 00:11:45,360
+[SALMA] Karena sebelumnya yang saya pakai itu tidak ada deskripsi surah
+
+124
+00:11:45,360 --> 00:11:48,080
+[LISA] Oh, yang di halaman detail ya mba
+
+125
+00:11:48,080 --> 00:11:49,054
+[SALMA] Iya
+
+126
+00:11:49,611 --> 00:11:52,480
+[LISA] Kalau dari-, itu aja mba? Atau ada lagi?
+
+127
+00:11:54,917 --> 00:11:59,280
+[SALMA] Itu aja sih kelebihan yang paling mencolok, yang saya lihat
+
+128
+00:12:00,000 --> 00:12:05,480
+[LISA] Oke, kalau dari kekurangannya ada ngga mba? Dari aplikasi Quran Saku ini
+
+129
+00:12:07,310 --> 00:12:18,880
+[SALMA] Mungkin yang tadi, tulisan arab yang membedakan tajwidnya dan auto-play buat audio 
+
+130
+00:12:20,622 --> 00:12:22,622
+[LISA] Iya, iya. Sebentar saya tulis dulu ya
+
+131
+00:12:32,013 --> 00:12:36,400
+[LISA] Auto-play dari surah satu ke surah selanjutnya, gitu ya mba
+
+132
+00:12:36,400 --> 00:12:37,464
+[SALMA] Iya
+
+133
+00:12:38,735 --> 00:12:41,240
+[LISA] Pertanyaan selanjutnya mba, 
+
+134
+00:12:41,240 --> 00:12:47,040
+[LISA] Kira-kira apakah mba ingin menggunakan aplikasi Quran Saku untuk kedepannya mba?
+
+135
+00:12:48,805 --> 00:12:55,720
+[SALMA] Mungkin untuk sekarang iya, karena ini juga udah cukup lengkap buat saya
+
+136
+00:13:00,487 --> 00:13:02,487
+[LISA] Oke
+
+137
+00:13:02,487 --> 00:13:04,240
+[LISA] Kira-kira menurut mba-
+
+138
+00:13:04,551 --> 00:13:10,680
+[LISA] Menurut mba, gimana tanggapannya mengenai aplikasi Quran Saku ini mba?
+
+139
+00:13:12,400 --> 00:13:13,400
+[SALMA] Ya, kenapa?
+
+140
+00:13:13,929 --> 00:13:18,920
+[LISA] Gimana tanggapan mba Salma mengenai aplikasi Quran Saku ini?
+
+141
+00:13:25,510 --> 00:13:31,320
+[SALMA] Kalau sejauh ini, mungkin aplikasinya sudah baik dan bagus
+
+142
+00:13:31,320 --> 00:13:37,720
+[SALMA] Udah membantu kita juga untuk teman-teman muslim membaca Al-Qur'an
+
+143
+00:13:37,720 --> 00:13:39,960
+[SALMA] -soalnya praktis juga 'kan
+
+144
+00:13:39,960 --> 00:13:44,400
+[SALMA] Terus untuk penyimpanan juga aplikasi ini ga terlalu besar
+
+145
+00:13:44,400 --> 00:13:49,240
+[SALMA] Jadi mungkin ga terlalu -masih bisa didownload
+
+146
+00:13:50,889 --> 00:13:51,520
+[LISA] Iya, iya
+
+147
+00:13:52,506 --> 00:13:54,040
+[LISA] Sebentar ya mba, saya tulis dulu
+
+148
+00:14:00,894 --> 00:14:21,480
+[LISA] Oke, sebentar ya mba
+
+149
+00:14:31,120 --> 00:14:35,200
+[LISA] Jadi, membantu muslim untuk membaca Al-Qur'an gitu mba tadi ya
+
+150
+00:14:35,453 --> 00:14:36,520
+[SALMA] Iya
+
+151
+00:14:47,013 --> 00:14:51,400
+[LISA] Dan tadi apa aplikasi-, ukuran aplikasinya kecil ya
+
+152
+00:14:51,613 --> 00:14:53,613
+[SALMA] Ya, ukurannya tidak terlalu besar
+
+153
+00:14:54,348 --> 00:14:56,348
+[SALMA] Untuk di download
+
+154
+00:14:56,674 --> 00:14:57,720
+[LISA] Iya, iya
+
+155
+00:14:59,382 --> 00:15:01,382
+[LISA] Oke
+
+156
+00:15:02,535 --> 00:15:09,880
+[LISA] Baik mba Salma, mungkin itu aja untuk kegiatan kita hari ini yaitu-
+
+157
+00:15:09,880 --> 00:15:14,400
+[LISA] User Testing untuk aplikasi Quran Saku
+
+158
+00:15:14,723 --> 00:15:19,240
+[LISA] Sebelumnya, makasih juga buat mba Salma karena sudah meluangkan waktunya
+
+159
+00:15:19,240 --> 00:15:21,476
+[SALMA] Ya, sama-sama
+
+160
+00:15:21,476 --> 00:15:24,843
+[LISA] Oke, itu aja mungkin. Wassalamualaikum Warahmatullahi Wabarakatuh
+
+161
+00:15:24,843 --> 00:15:27,222
+[LISA] Recording-nya saya matikan ya
+
+162
+00:15:30,264 --> 00:15:31,160
+[LISA] Makasih mba
+
+163
+00:15:32,080 --> 00:15:33,080
+[SALMA] Ya
+
