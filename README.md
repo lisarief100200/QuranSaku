@@ -11,11 +11,11 @@ Quran Saku merupakan aplikasi yang berisikan surah Al-Qur'an lengkap dengan terj
 https://play.google.com/store/apps/details?id=com.quran.quransaku
 
 ## Tester Profile
-- Profil Tester 1
-####Nama: Dani
-####Berusia 29 tahun yang memiliki kebiasaan untuk selalu menyempatkan membaca Al-Qur'an setelah melaksanakan sholat wajib
-####(_wawancara dilaksakan pada tanggal 24 Desember pukul 20.00 WIB_)
-####[Record Link](https://youtu.be/--hgTchbIJk) | 
+- Profil Tester 1\
+Nama: Dani\
+Berusia 29 tahun yang memiliki kebiasaan untuk selalu menyempatkan membaca Al-Qur'an setelah melaksanakan sholat wajib\
+(_wawancara dilaksakan pada tanggal 24 Desember pukul 20.00 WIB_)\
+[Record Link](https://youtu.be/--hgTchbIJk) | 
 [Subtitle](https://github.com/lisarief100200/QuranSaku/blob/main/subtitle/captions_dani.srt)
 
 - Profil Tester 2\
